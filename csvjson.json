@@ -1,0 +1,5843 @@
+[
+  {
+    "Company": "PepsiCo",
+    "Company Score": 3.9,
+    "Job Title": "2025 Summer Intern: R&D",
+    "Location": "Plano, TX",
+    "Salary": "$21.50 - $55.40 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ghSMART",
+    "Company Score": 4.8,
+    "Job Title": "Data Engineer Intern",
+    "Location": "Remote",
+    "Salary": "$20.00 - $30.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PepsiCo",
+    "Company Score": 3.9,
+    "Job Title": "2025 Summer Intern: eCommerce Data Science",
+    "Location": "United States",
+    "Salary": "$21.50 - $40.19 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "U.S. Bank National Association",
+    "Company Score": 3.6,
+    "Job Title": "2025 Data Analytics Summer Intern",
+    "Location": "Minneapolis, MN",
+    "Salary": "$20.63 - $30.25 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Plymouth Rock Assurance",
+    "Company Score": 3.4,
+    "Job Title": "Fall 2024 Data Science/Predictive Modeler Intern",
+    "Location": "Woodbridge, NJ",
+    "Salary": "$77K - $130K (Glassdoor est.)",
+    "Converted_Salary": 77,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Brookfield Properties",
+    "Company Score": 3.8,
+    "Job Title": "Data Analyst Intern",
+    "Location": "Charleston, SC",
+    "Salary": "$36K - $50K (Glassdoor est.)",
+    "Converted_Salary": 36,
+    "In_GA": "No"
+  },
+  {
+    "Company": "GE HEALTHCARE",
+    "Company Score": 4.2,
+    "Job Title": "Edison Engineering Program Intern – Software",
+    "Location": "Waukesha, WI",
+    "Salary": "$72K - $120K (Glassdoor est.)",
+    "Converted_Salary": 72,
+    "In_GA": "No"
+  },
+  {
+    "Company": "InComm Payments",
+    "Company Score": 3.6,
+    "Job Title": "Data Analyst Intern",
+    "Location": "Atlanta, GA",
+    "Salary": "$50K - $67K (Glassdoor est.)",
+    "Converted_Salary": 50,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "PepsiCo",
+    "Company Score": 3.9,
+    "Job Title": "2025 Summer Intern: Commerce Data & Technology",
+    "Location": "United States",
+    "Salary": "$21.50 - $40.19 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Copart",
+    "Company Score": 3.5,
+    "Job Title": "Data & AI Intern",
+    "Location": "Dallas, TX",
+    "Salary": "$57K - $86K (Glassdoor est.)",
+    "Converted_Salary": 57,
+    "In_GA": "No"
+  },
+  {
+    "Company": "20 Digits Inc",
+    "Company Score": 3.5,
+    "Job Title": "Data Analyst Intern",
+    "Location": "Sewell, NJ",
+    "Salary": "$60K - $93K (Glassdoor est.)",
+    "Converted_Salary": 60,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Copart",
+    "Company Score": 4.1,
+    "Job Title": "Data Engineering Intern",
+    "Location": "Dallas, TX",
+    "Salary": "$72K - $100K (Glassdoor est.)",
+    "Converted_Salary": 72,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Oshkosh Corporation",
+    "Company Score": 3.2,
+    "Job Title": "Data Engineer Intern - Advanced Analytics",
+    "Location": "Oshkosh, WI",
+    "Salary": "$18.00 - $21.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "CALSTART",
+    "Company Score": 4,
+    "Job Title": "Data Research Intern",
+    "Location": "Remote",
+    "Salary": "$121K - $204K (Glassdoor est.)",
+    "Converted_Salary": 12,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Nissan",
+    "Company Score": 3.5,
+    "Job Title": "EV Strategy Data Science Intern- Fall 2024- Franklin, TN",
+    "Location": "Franklin, TN",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "American Crystal Sugar Company",
+    "Company Score": 3.7,
+    "Job Title": "Analytics & Data Intern",
+    "Location": "Moorhead, MN",
+    "Salary": "$57K - $106K (Glassdoor est.)",
+    "Converted_Salary": 57,
+    "In_GA": "No"
+  },
+  {
+    "Company": "WSP",
+    "Company Score": 4.1,
+    "Job Title": "Data Science Intern - Fall 2024",
+    "Location": "Kennesaw, GA",
+    "Salary": "$22.00 - $28.00 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "California Institute of Genetics",
+    "Company Score": 3.3,
+    "Job Title": "Research Intern",
+    "Location": "United States",
+    "Salary": "$25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 25,
+    "In_GA": "No"
+  },
+  {
+    "Company": "BMW",
+    "Company Score": 3.8,
+    "Job Title": "Intern, Commercial Credit and Data Analytics",
+    "Location": "Columbus, OH",
+    "Salary": "$30.75 - $40.75 Per Hour (Employer est.)",
+    "Converted_Salary": 30,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Everytown for Gun Safety",
+    "Company Score": 5,
+    "Job Title": "Research Intern",
+    "Location": "United States",
+    "Salary": "$49K - $68K (Glassdoor est.)",
+    "Converted_Salary": 49,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PRICE WATERHOUSE COOPERS",
+    "Company Score": 4.1,
+    "Job Title": "Digital Assurance & Transparency (DAT) Data Intern - Summer 2025",
+    "Location": "United States",
+    "Salary": "$57K - $81K (Glassdoor est.)",
+    "Converted_Salary": 57,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Boston Bolts",
+    "Company Score": 3.7,
+    "Job Title": "Academy Data Analyst - Part-time, Remote",
+    "Location": "Newton, MA",
+    "Salary": "$85K - $155K (Glassdoor est.)",
+    "Converted_Salary": 85,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The University of Chicago",
+    "Company Score": 3.2,
+    "Job Title": "Temporary Data Engineer/Data Analyst Intern",
+    "Location": "Chicago, IL",
+    "Salary": "$22.86 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Belvedere Trading",
+    "Company Score": 3.8,
+    "Job Title": "Quantitative Trading Intern - Summer 2025",
+    "Location": "Chicago, IL",
+    "Salary": "$57K - $85K (Glassdoor est.)",
+    "Converted_Salary": 57,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Utah Transit Authority",
+    "Company Score": 3.8,
+    "Job Title": "Data Reporting and Analytics Intern",
+    "Location": "Salt Lake City, UT",
+    "Salary": "$21.00 - $28.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ARCO a Family of Construction Companies",
+    "Company Score": 3.3,
+    "Job Title": "Data Engineer Intern/Co-op",
+    "Location": "Saint Louis, MO",
+    "Salary": "$20.00 - $43.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Voya Financial",
+    "Company Score": 3.8,
+    "Job Title": "Summer 2025 Actuarial Intern",
+    "Location": "Remote",
+    "Salary": "$24.00 - $34.00 Per Hour (Employer est.)",
+    "Converted_Salary": 24,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Hytrol Conveyor Company",
+    "Company Score": 4,
+    "Job Title": "Data Engineer Intern - Jonesboro, AR",
+    "Location": "Jonesboro, AR",
+    "Salary": "$52K - $97K (Glassdoor est.)",
+    "Converted_Salary": 52,
+    "In_GA": "No"
+  },
+  {
+    "Company": "CCC Information Services Inc.",
+    "Company Score": 3.9,
+    "Job Title": "Data Science Fall Internship",
+    "Location": "Chicago, IL",
+    "Salary": "$18.00 - $24.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cargill",
+    "Company Score": 4.1,
+    "Job Title": "Software Engineering Intern Summer 2025 - Atlanta, GA",
+    "Location": "Atlanta, GA",
+    "Salary": "$21.50 - $54.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "IDEMIA",
+    "Company Score": 4,
+    "Job Title": "Data Analyst Internship (Fall 2024)",
+    "Location": "Exton, PA",
+    "Salary": "$47K - $73K (Glassdoor est.)",
+    "Converted_Salary": 47,
+    "In_GA": "No"
+  },
+  {
+    "Company": "First Solar",
+    "Company Score": 3.3,
+    "Job Title": "Manufacturing Engineering Data Science Intern (Fall 2024)",
+    "Location": "Perrysburg, OH",
+    "Salary": "$30.00 - $40.00 Per Hour (Employer est.)",
+    "Converted_Salary": 30,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cargill",
+    "Company Score": 3.9,
+    "Job Title": "Trading Data & Analytics Intern Summer 2025 - Minneapolis, MN",
+    "Location": "Wayzata, MN",
+    "Salary": "$33.00 Per Hour (Employer est.)",
+    "Converted_Salary": 33,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Hytrol Conveyor Company",
+    "Company Score": 5,
+    "Job Title": "Data Scientist Intern - Jonesboro, AR",
+    "Location": "Jonesboro, AR",
+    "Salary": "$42.50 Per Hour (Employer est.)",
+    "Converted_Salary": 42,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PepsiCo",
+    "Company Score": 4.1,
+    "Job Title": "2025 Summer Intern: Technology Data & Analytics, Data Engineer & Data Science",
+    "Location": "Purchase, NY",
+    "Salary": "$51K - $92K (Glassdoor est.)",
+    "Converted_Salary": 51,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Peak Nano",
+    "Company Score": 4.1,
+    "Job Title": "SOFTWARE ENGINEER INTERN",
+    "Location": "Macedonia, OH",
+    "Salary": "$55K - $84K (Glassdoor est.)",
+    "Converted_Salary": 55,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Bosch Group",
+    "Company Score": 4,
+    "Job Title": "Mechanical/Automation Engineer Intern",
+    "Location": "Sunnyvale, CA",
+    "Salary": "$1K (Employer est.)",
+    "Converted_Salary": "1K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Milwaukee Bucks, Inc",
+    "Company Score": 4.1,
+    "Job Title": "Customer Data Intern",
+    "Location": "Milwaukee, WI",
+    "Salary": "$43K - $79K (Employer est.)",
+    "Converted_Salary": 43,
+    "In_GA": "No"
+  },
+  {
+    "Company": "United Nations Development Programme (UNDP)",
+    "Company Score": 3.8,
+    "Job Title": "SDG Impact Intern",
+    "Location": "Remote",
+    "Salary": "$49K - $78K (Glassdoor est.)",
+    "Converted_Salary": 49,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The Cincinnati Insurance Companies",
+    "Company Score": 4.6,
+    "Job Title": "Student Opportunities - Data Science Intern (PhD candidate) - Fall 2024 (Hybrid)",
+    "Location": "Fairfield, OH",
+    "Salary": "$18.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Medtronic",
+    "Company Score": 3.4,
+    "Job Title": "Software Engineering Intern – Summer 2025 (Graduate)",
+    "Location": "Minneapolis, MN",
+    "Salary": "$16.00 - $18.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The David J. Joseph Company",
+    "Company Score": 4.3,
+    "Job Title": "IT Intern/Co-op (Spring/Summer 2025)",
+    "Location": "Cincinnati, OH",
+    "Salary": "$27K - $40K (Glassdoor est.)",
+    "Converted_Salary": 27,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Physicians Mutual",
+    "Company Score": 3.6,
+    "Job Title": "Data Science Intern (12 Month Onsite Internship)",
+    "Location": "Omaha, NE",
+    "Salary": "$86K - $147K (Glassdoor est.)",
+    "Converted_Salary": 86,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Greentree Capital",
+    "Company Score": 3.8,
+    "Job Title": "Diversity Outreach Intern (Remote)",
+    "Location": "Remote",
+    "Salary": "$21.50 - $40.19 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Premier Inc.",
+    "Company Score": 4,
+    "Job Title": "Data Analytics Management Consulting Intern",
+    "Location": "Remote",
+    "Salary": "$36.00 - $38.00 Per Hour (Employer est.)",
+    "Converted_Salary": 36,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Kohler",
+    "Company Score": 3.7,
+    "Job Title": "Kohler Intern",
+    "Location": "Kohler, WI",
+    "Salary": "$24.05 - $63.00 Per Hour (Employer est.)",
+    "Converted_Salary": 24,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Leonardo DRS",
+    "Company Score": 3.3,
+    "Job Title": "Fall 2024- Pricing Analyst- Intern",
+    "Location": "Melbourne, FL",
+    "Salary": "$18.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Castleton Commodities International",
+    "Company Score": 3.8,
+    "Job Title": "Data Engineering Internship (Summer 2025)",
+    "Location": "Stamford, CT",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "SC2",
+    "Company Score": 4.3,
+    "Job Title": "Data Analytics Intern",
+    "Location": "Peoria, IL",
+    "Salary": "$19.15 - $20.45 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Master Center for Addiction Medicine",
+    "Company Score": 3.3,
+    "Job Title": "Billing Data Analytics Intern",
+    "Location": "Glen Allen, VA",
+    "Salary": "$54.00 - $56.00 Per Hour (Employer est.)",
+    "Converted_Salary": 54,
+    "In_GA": "No"
+  },
+  {
+    "Company": "AcreTrader, Inc",
+    "Company Score": 3.9,
+    "Job Title": "Data Entry Intern",
+    "Location": "Fayetteville, AR",
+    "Salary": "$16.00 - $20.50 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 3.6,
+    "Job Title": "Reporting and Documentation Analyst Intern (TikTok Global Security) - 2025 Summer (BS/MS)",
+    "Location": "Washington, DC",
+    "Salary": "$36K - $69K (Employer est.)",
+    "Converted_Salary": 36,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PepsiCo",
+    "Company Score": 4.1,
+    "Job Title": "2025 Summer Intern: Supply Chain",
+    "Location": "Purchase, NY",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Prudential",
+    "Company Score": 3.4,
+    "Job Title": "Prudential: 2025 Technology & Data, Software Engineering Internship Program",
+    "Location": "Newark, NJ",
+    "Salary": "$27.00 - $30.00 Per Hour (Employer est.)",
+    "Converted_Salary": 27,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Amex",
+    "Company Score": 3.4,
+    "Job Title": "Campus Undergraduate – 2025 US Consumer Services Marketing Summer Internship New York, NY",
+    "Location": "New York, NY",
+    "Salary": "$21.50 - $40.19 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Stand Together",
+    "Company Score": 3.4,
+    "Job Title": "KIP Fall 2024 - Policy Intern - Libertas Institute",
+    "Location": "Remote",
+    "Salary": "$24.00 - $28.00 Per Hour (Employer est.)",
+    "Converted_Salary": 24,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Zeno Group",
+    "Company Score": 3.9,
+    "Job Title": "Intern, Analytics",
+    "Location": "Chicago, IL",
+    "Salary": "$25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 25,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Hasbro",
+    "Company Score": 4.3,
+    "Job Title": "Intern - Marketing, Play-Doh (Sept - Dec 2024)",
+    "Location": "Pawtucket, RI",
+    "Salary": "$36.00 - $38.00 Per Hour (Employer est.)",
+    "Converted_Salary": 36,
+    "In_GA": "No"
+  },
+  {
+    "Company": "SmartDev LLC",
+    "Company Score": 4,
+    "Job Title": "Global health financing intern",
+    "Location": "Remote",
+    "Salary": "$19.00 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "youbloom",
+    "Company Score": 3.7,
+    "Job Title": "Business Analysis Intern",
+    "Location": "Remote",
+    "Salary": "$85K - $122K (Glassdoor est.)",
+    "Converted_Salary": 85,
+    "In_GA": "No"
+  },
+  {
+    "Company": "SECURA Insurance",
+    "Company Score": 3.5,
+    "Job Title": "Intern - Actuarial/Data Science",
+    "Location": "Neenah, WI",
+    "Salary": "$50K - $74K (Glassdoor est.)",
+    "Converted_Salary": 50,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Databricks",
+    "Company Score": 3.3,
+    "Job Title": "Software Engineering Intern (2025)",
+    "Location": "San Francisco, CA",
+    "Salary": "$95K - $157K (Glassdoor est.)",
+    "Converted_Salary": 95,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Jones Strategy and Consulting Group, LLC",
+    "Company Score": 2.9,
+    "Job Title": "Business Analyst Intern",
+    "Location": "United States",
+    "Salary": "$22.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "CACI",
+    "Company Score": 3.9,
+    "Job Title": "Data Engineering Intern - Fall 2024",
+    "Location": "Charlottesville, VA",
+    "Salary": "$65K - $98K (Glassdoor est.)",
+    "Converted_Salary": 65,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PHI, Inc.",
+    "Company Score": 3.8,
+    "Job Title": "Business Development Intern",
+    "Location": "Lafayette, LA",
+    "Salary": "$48K - $71K (Glassdoor est.)",
+    "Converted_Salary": 48,
+    "In_GA": "No"
+  },
+  {
+    "Company": "City of Philadelphia",
+    "Company Score": 3.8,
+    "Job Title": "Data Analyst Intern",
+    "Location": "Philadelphia, PA",
+    "Salary": "$22.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Hytrol Conveyor Company",
+    "Company Score": 3.6,
+    "Job Title": "Business Analyst Engineer Intern - Jonesboro, AR",
+    "Location": "Jonesboro, AR",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Eye Care Partners Career Opportunities",
+    "Company Score": 3.5,
+    "Job Title": "Data Analyst Intern - Must Live in St. Louis, MO!",
+    "Location": "Ballwin, MO",
+    "Salary": "$15.79 - $17.25 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PepsiCo",
+    "Company Score": 4.2,
+    "Job Title": "2025 Summer Intern: Procurement Intern - Undergrad",
+    "Location": "Purchase, NY",
+    "Salary": "$36.00 - $38.00 Per Hour (Employer est.)",
+    "Converted_Salary": 36,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Medtronic",
+    "Company Score": 3.9,
+    "Job Title": "Summer 2025 Management Information Systems Intern - Undergraduate",
+    "Location": "Mounds View, MN",
+    "Salary": "$17.00 - $20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "University Health Partners of Hawaii",
+    "Company Score": 3.7,
+    "Job Title": "Digital Health Data Engineer Intern - Hybrid, Part-Time",
+    "Location": "Honolulu, HI",
+    "Salary": "$22.00 - $33.00 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Prudential",
+    "Company Score": 4,
+    "Job Title": "Prudential: 2025 Technology & Data, Data Analytics & Business Systems Internship Program",
+    "Location": "Newark, NJ",
+    "Salary": "$1K (Employer est.)",
+    "Converted_Salary": "1K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Universal Service Administrative Company",
+    "Company Score": 3.9,
+    "Job Title": "Data Strategy Intern- Year Round Internship",
+    "Location": "Washington, DC",
+    "Salary": "$2K (Employer est.)",
+    "Converted_Salary": "2K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "SAP",
+    "Company Score": 3.7,
+    "Job Title": "SAP Ariba iXp Intern - Business Intelligence and Data Analytics",
+    "Location": "Indianapolis, IN",
+    "Salary": "$30.00 Per Hour (Employer est.)",
+    "Converted_Salary": 30,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Philadelphia Gas Works",
+    "Company Score": 3.8,
+    "Job Title": "Data Analytics Intern",
+    "Location": "Philadelphia, PA",
+    "Salary": "$25.00 - $35.00 Per Hour (Employer est.)",
+    "Converted_Salary": 25,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ByteDance",
+    "Company Score": 3.1,
+    "Job Title": "Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US)- 2025 Summer (MS)",
+    "Location": "Seattle, WA",
+    "Salary": "$59K - $102K (Glassdoor est.)",
+    "Converted_Salary": 59,
+    "In_GA": "No"
+  },
+  {
+    "Company": "SES",
+    "Company Score": 3.6,
+    "Job Title": "Internship - Payload Satellite Engineering: Big Data Sets",
+    "Location": "Bristow, VA",
+    "Salary": "$17.50 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Compsource Mutual Insurance Company",
+    "Company Score": 3.7,
+    "Job Title": "Intern, Financial & Actuarial Data Analyst",
+    "Location": "Oklahoma City, OK",
+    "Salary": "$71K - $114K (Glassdoor est.)",
+    "Converted_Salary": 71,
+    "In_GA": "No"
+  },
+  {
+    "Company": "American Commercial Barge Line",
+    "Company Score": 4,
+    "Job Title": "Supply Chain Data Analyst Intern (Fall 2024)",
+    "Location": "Jeffersonville, IN",
+    "Salary": "$52K - $68K (Glassdoor est.)",
+    "Converted_Salary": 52,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Sikka Software",
+    "Company Score": 3.5,
+    "Job Title": "Data Discovery ETL Developer Intern",
+    "Location": "San Jose, CA",
+    "Salary": "$15.00 - $20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Premium Waters",
+    "Company Score": 3.2,
+    "Job Title": "Intern (Data Coordinator)",
+    "Location": "Riverside, MO",
+    "Salary": "$57K - $85K (Glassdoor est.)",
+    "Converted_Salary": 57,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Prudential",
+    "Company Score": 4,
+    "Job Title": "Prudential: 2025 Corporate, Internal Audit Data Analytics Internship Program",
+    "Location": "Newark, NJ",
+    "Salary": "$18.00 - $21.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Davines Italia spa",
+    "Company Score": 3.9,
+    "Job Title": "Marketing Intern, Davines North America",
+    "Location": "New York State",
+    "Salary": "$17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Northrop Grumman",
+    "Company Score": 3.9,
+    "Job Title": "2025 Summer Business Management Analyst Intern Linthicum MD",
+    "Location": "Linthicum, MD",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Seminole County, FL",
+    "Company Score": 3.6,
+    "Job Title": "Student Intern Opportunity - Fire Dept Data Analytics & Visualization",
+    "Location": "United States",
+    "Salary": "$3K - $6K (Employer est.)",
+    "Converted_Salary": "3K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "EPMA",
+    "Company Score": 3.4,
+    "Job Title": "Data Science- Internship opportunity (UT Austin/ University of Texas-San Marcos/ Texas A& M) -Onsite- Austin Tx.",
+    "Location": "Austin, TX",
+    "Salary": "$61K - $109K (Glassdoor est.)",
+    "Converted_Salary": 61,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Peloton",
+    "Company Score": 3.8,
+    "Job Title": "2025 Land Data Management Internship Program",
+    "Location": "Katy, TX",
+    "Salary": "$43K - $79K (Glassdoor est.)",
+    "Converted_Salary": 43,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Springer Capital",
+    "Company Score": 4,
+    "Job Title": "Diversity and Equity Initiatives Intern (Remote)",
+    "Location": "Remote",
+    "Salary": "$47K - $68K (Glassdoor est.)",
+    "Converted_Salary": 47,
+    "In_GA": "No"
+  },
+  {
+    "Company": "RTI International",
+    "Company Score": 4.4,
+    "Job Title": "Geospatial Data Analyst Internship",
+    "Location": "Durham, NC",
+    "Salary": "$69K - $75K (Employer est.)",
+    "Converted_Salary": 69,
+    "In_GA": "No"
+  },
+  {
+    "Company": "BASF Corporation",
+    "Company Score": 3.8,
+    "Job Title": "Professional Development Program (PDP) Internship - Data Science Summer 2025",
+    "Location": "Florham Park, NJ",
+    "Salary": "$20.88 - $26.10 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "AON Marketing Inc.",
+    "Company Score": 3.7,
+    "Job Title": "Sales Intern",
+    "Location": "Tampa, FL",
+    "Salary": "$30K - $43K (Glassdoor est.)",
+    "Converted_Salary": 30,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Macquarie Group Limited",
+    "Company Score": 5,
+    "Job Title": "2025 Technology Summer Internship Program",
+    "Location": "Houston, TX",
+    "Salary": "$24.05 - $63.00 Per Hour (Employer est.)",
+    "Converted_Salary": 24,
+    "In_GA": "No"
+  },
+  {
+    "Company": "State Farm",
+    "Company Score": 3.4,
+    "Job Title": "2025 Summer Intern - P&C Actuarial",
+    "Location": "Bloomington, IL",
+    "Salary": "$91K - $135K (Glassdoor est.)",
+    "Converted_Salary": 91,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ConocoPhillips",
+    "Company Score": 3,
+    "Job Title": "2025 Actuary Analyst Intern",
+    "Location": "Remote",
+    "Salary": "$91K - $162K (Glassdoor est.)",
+    "Converted_Salary": 91,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PCORI",
+    "Company Score": 4.2,
+    "Job Title": "Intern, Information Technology 2025 (CONV)",
+    "Location": "Bartlesville, OK",
+    "Salary": "$44K - $60K (Glassdoor est.)",
+    "Converted_Salary": 44,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Micron",
+    "Company Score": 2,
+    "Job Title": "Fall Intern - Procurement",
+    "Location": "Washington, DC",
+    "Salary": "$6K - $21K (Employer est.)",
+    "Converted_Salary": "6K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "AbbVie",
+    "Company Score": 3.4,
+    "Job Title": "Intern - Yield Enhancement, Data Analysis",
+    "Location": "Boise, ID",
+    "Salary": "$14.00 - $21.00 Per Hour (Employer est.)",
+    "Converted_Salary": 14,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Kadant Black Clawson",
+    "Company Score": 4.1,
+    "Job Title": "2025 Finance Intern",
+    "Location": "North Chicago, IL",
+    "Salary": "$25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 25,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PRICE WATERHOUSE COOPERS",
+    "Company Score": 3.9,
+    "Job Title": "Engineering Intern - Data Analytics",
+    "Location": "Lebanon, OH",
+    "Salary": "$19.22 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Keymanna Management",
+    "Company Score": 3.9,
+    "Job Title": "Tax Technology Intern - Summer 2025",
+    "Location": "Los Angeles, CA",
+    "Salary": "$18.00 - $20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Legrand North America",
+    "Company Score": 2.8,
+    "Job Title": "Intern- Event Management",
+    "Location": "Remote",
+    "Salary": "$1K (Employer est.)",
+    "Converted_Salary": "1K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Activation Capital",
+    "Company Score": 3.5,
+    "Job Title": "Supply Chain Intern",
+    "Location": "United States",
+    "Salary": "$24.62 - $30.00 Per Hour (Employer est.)",
+    "Converted_Salary": 24,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Stonersville F.C. Flames",
+    "Company Score": 4.1,
+    "Job Title": "Project Management Intern",
+    "Location": "Richmond, VA",
+    "Salary": "$75.00 - $82.00 Per Hour (Employer est.)",
+    "Converted_Salary": 75,
+    "In_GA": "No"
+  },
+  {
+    "Company": "News Corp",
+    "Company Score": 3.9,
+    "Job Title": "Sales/Marketing Intern",
+    "Location": "Remote",
+    "Salary": "$1K (Employer est.)",
+    "Converted_Salary": "1K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Sapna NYC Inc.",
+    "Company Score": 2.9,
+    "Job Title": "AI Engineering Intern",
+    "Location": "New York, NY",
+    "Salary": "$30.00 - $45.00 Per Hour (Employer est.)",
+    "Converted_Salary": 30,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Dover Food Retail",
+    "Company Score": 5,
+    "Job Title": "Sapna NYC Data, Research, & Communications Intern",
+    "Location": "Bronx, NY",
+    "Salary": "$60.00 - $75.00 Per Hour (Employer est.)",
+    "Converted_Salary": 60,
+    "In_GA": "No"
+  },
+  {
+    "Company": "CyberSC",
+    "Company Score": 4.1,
+    "Job Title": "Intern, Product Management",
+    "Location": "Conyers, GA",
+    "Salary": "$22.00 - $24.00 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "RippleMatch Opportunities",
+    "Company Score": 3.8,
+    "Job Title": "Digital Marketing Intern - Events",
+    "Location": "Remote",
+    "Salary": "$20.50 - $27.50 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Belt Power",
+    "Company Score": 3.7,
+    "Job Title": "Business Intelligence Intern, application via RippleMatch",
+    "Location": "Denver, CO",
+    "Salary": "$37.00 - $39.00 Per Hour (Employer est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Stand Together",
+    "Company Score": 4.2,
+    "Job Title": "Business Analytics Intern",
+    "Location": "Marietta, GA",
+    "Salary": "$20.00 - $40.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Hunter Engineering Company",
+    "Company Score": 3.6,
+    "Job Title": "KIP Fall 2024 - Training and Education Intern - Atlas Network",
+    "Location": "Remote",
+    "Salary": "$35K - $51K (Glassdoor est.)",
+    "Converted_Salary": 35,
+    "In_GA": "No"
+  },
+  {
+    "Company": "GLOBAL Healing Creative Arts Therapy Studio",
+    "Company Score": 4.1,
+    "Job Title": "Digital Marketing Intern",
+    "Location": "Bridgeton, MO",
+    "Salary": "$20.00 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Hilltop Holdings",
+    "Company Score": 3.9,
+    "Job Title": "Supply Chain Intern",
+    "Location": "New Baltimore, MI",
+    "Salary": "$30K - $49K (Glassdoor est.)",
+    "Converted_Salary": 30,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ZAGG Inc",
+    "Company Score": 4.6,
+    "Job Title": "Quantitative Analytics Intern",
+    "Location": "Dallas, TX",
+    "Salary": "$45K - $68K (Glassdoor est.)",
+    "Converted_Salary": 45,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Isuzu",
+    "Company Score": 4.4,
+    "Job Title": "Product Management Intern",
+    "Location": "Midvale, UT",
+    "Salary": "$20.00 - $32.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ASPCA",
+    "Company Score": 4.2,
+    "Job Title": "Commercial Vehicle Engineering Intern",
+    "Location": "Plymouth, MI",
+    "Salary": "$56K - $92K (Glassdoor est.)",
+    "Converted_Salary": 56,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mind by Design Counseling LLC",
+    "Company Score": 4.3,
+    "Job Title": "Internship in Applied Animal Welfare Research (Spring or Summer 2025)",
+    "Location": "",
+    "Salary": "$102K - $145K (Glassdoor est.)",
+    "Converted_Salary": 10,
+    "In_GA": "No"
+  },
+  {
+    "Company": "DSM",
+    "Company Score": 4,
+    "Job Title": "Internship and Data Coordinator",
+    "Location": "San Francisco, CA",
+    "Salary": "$19.00 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Moda Health",
+    "Company Score": 4.4,
+    "Job Title": "RA Data Analytics Apprentice",
+    "Location": "Connecticut",
+    "Salary": "$20.96 - $33.54 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Peak Nano",
+    "Company Score": 3.3,
+    "Job Title": "Provider Analytics Intern",
+    "Location": "Portland, OR",
+    "Salary": "$45.00 Per Hour (Employer est.)",
+    "Converted_Salary": 45,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Amex",
+    "Company Score": 3.3,
+    "Job Title": "AI/ML DEVELOPMENTAL INTERN",
+    "Location": "Macedonia, OH",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ATPCO",
+    "Company Score": 2,
+    "Job Title": "Campus Undergraduate - 2025 Finance Summer Internship New York, NY",
+    "Location": "United States",
+    "Salary": "$22.54 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ByteDance",
+    "Company Score": 3.1,
+    "Job Title": "Systems Engineer Intern",
+    "Location": "Dulles, VA",
+    "Salary": "$24.05 - $63.00 Per Hour (Employer est.)",
+    "Converted_Salary": 24,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Schneider Electric",
+    "Company Score": 4,
+    "Job Title": "Software Engineer Intern (Data Management Suite-Globalization) - 2025 Summer/Fall (BS/MS)",
+    "Location": "San Jose, CA",
+    "Salary": "$45.00 Per Hour (Employer est.)",
+    "Converted_Salary": 45,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ZS Associates",
+    "Company Score": 3.8,
+    "Job Title": "Data Analytics/Procurement Intern",
+    "Location": "Nashville, TN",
+    "Salary": "$21.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Taft Museum of Art",
+    "Company Score": 4.4,
+    "Job Title": "Decision Analytics Associate - Intern (North America - University Students)",
+    "Location": "Princeton, NJ",
+    "Salary": "$88K - $165K (Glassdoor est.)",
+    "Converted_Salary": 88,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Arrowstreet Capital",
+    "Company Score": 3.2,
+    "Job Title": "Museum Data Collection Intern",
+    "Location": "Cincinnati, OH",
+    "Salary": "$41.00 - $43.00 Per Hour (Employer est.)",
+    "Converted_Salary": 41,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Tenaris",
+    "Company Score": 4,
+    "Job Title": "Quantitative Developer Intern, Summer 2025",
+    "Location": "Boston, MA",
+    "Salary": "$16.00 - $17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Maricopa Association of Governments",
+    "Company Score": 3.1,
+    "Job Title": "Communications Intern",
+    "Location": "Houston, TX",
+    "Salary": "$41K - $67K (Glassdoor est.)",
+    "Converted_Salary": 41,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Arrowstreet Capital",
+    "Company Score": 4.1,
+    "Job Title": "Transportation Data Intern",
+    "Location": "Phoenix, AZ",
+    "Salary": "$45K - $83K (Glassdoor est.)",
+    "Converted_Salary": 45,
+    "In_GA": "No"
+  },
+  {
+    "Company": "University of Utah Health",
+    "Company Score": 3.3,
+    "Job Title": "Quantitative Researcher Intern, Summer 2025",
+    "Location": "Boston, MA",
+    "Salary": "$52K - $85K (Glassdoor est.)",
+    "Converted_Salary": 52,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Aqua Rocks Colorado",
+    "Company Score": 3.8,
+    "Job Title": "Analytics Intern",
+    "Location": "Salt Lake City, UT",
+    "Salary": "$61K - $105K (Glassdoor est.)",
+    "Converted_Salary": 61,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Greentree Capital",
+    "Company Score": 3.8,
+    "Job Title": "Paid Marketing Intern",
+    "Location": "Commerce City, CO",
+    "Salary": "$40K - $63K (Glassdoor est.)",
+    "Converted_Salary": 40,
+    "In_GA": "No"
+  },
+  {
+    "Company": "EMD Electronics",
+    "Company Score": 3.6,
+    "Job Title": "Diversity and Equity Initiatives Intern (Remote)",
+    "Location": "Remote",
+    "Salary": "$58K - $105K (Glassdoor est.)",
+    "Converted_Salary": 58,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Splunk",
+    "Company Score": 3.8,
+    "Job Title": "Maintenance Co-op",
+    "Location": "Branchburg, NJ",
+    "Salary": "$72K - $85K (Employer est.)",
+    "Converted_Salary": 72,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Sammons Financial Group",
+    "Company Score": 3.7,
+    "Job Title": "Applied Scientist Intern - PhD (US Remote - Fall 2024)",
+    "Location": "Colorado",
+    "Salary": "$30.00 - $45.00 Per Hour (Employer est.)",
+    "Converted_Salary": 30,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Springer Capital",
+    "Company Score": 3.6,
+    "Job Title": "Actuarial Intern - Part-Time 24/25 School Year",
+    "Location": "Iowa",
+    "Salary": "$80K - $110K (Glassdoor est.)",
+    "Converted_Salary": 80,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 3.5,
+    "Job Title": "Inclusion Strategy Intern (Remote)",
+    "Location": "Remote",
+    "Salary": "$67K - $114K (Glassdoor est.)",
+    "Converted_Salary": 67,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 3.4,
+    "Job Title": "Security Data Scientist Intern (Security Execution and Performance) - 2025 Summer (BS/MS)",
+    "Location": "San Jose, CA",
+    "Salary": "$16.00 - $21.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "i3 Assembly",
+    "Company Score": 3.3,
+    "Job Title": "Machine Learning Engineer Intern (Risk Data Mining) - 2025 Summer (PhD)",
+    "Location": "San Jose, CA",
+    "Salary": "$17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Metrex",
+    "Company Score": 3.6,
+    "Job Title": "Intern, Quality Engineer",
+    "Location": "Binghamton, NY",
+    "Salary": "$51K - $92K (Glassdoor est.)",
+    "Converted_Salary": 51,
+    "In_GA": "No"
+  },
+  {
+    "Company": "SiMa Technologies",
+    "Company Score": 4.1,
+    "Job Title": "Technical Research Intern",
+    "Location": "Brea, CA",
+    "Salary": "$17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Elanco",
+    "Company Score": 3.3,
+    "Job Title": "Computer Vision Intern (AI2338)",
+    "Location": "San Jose, CA",
+    "Salary": "$17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Walter P Moore",
+    "Company Score": 3.7,
+    "Job Title": "IT Data Analyst Intern",
+    "Location": "Greenfield, IN",
+    "Salary": "$110K - $195K (Glassdoor est.)",
+    "Converted_Salary": 11,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Data Device Corporation",
+    "Company Score": 4.2,
+    "Job Title": "Project Assistant Intern",
+    "Location": "Orlando, FL",
+    "Salary": "$79K - $129K (Glassdoor est.)",
+    "Converted_Salary": 79,
+    "In_GA": "No"
+  },
+  {
+    "Company": "RTI International",
+    "Company Score": 3.9,
+    "Job Title": "Quality Engineer Intern",
+    "Location": "Poway, CA",
+    "Salary": "$1K (Employer est.)",
+    "Converted_Salary": "1K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "NJEDA",
+    "Company Score": 3.2,
+    "Job Title": "Geospatial Data Analyst Internship",
+    "Location": "Durham, NC",
+    "Salary": "$36K - $53K (Glassdoor est.)",
+    "Converted_Salary": 36,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Amex",
+    "Company Score": 4.3,
+    "Job Title": "IT / Portal CRM Developer Intern",
+    "Location": "New Jersey",
+    "Salary": "$44K - $62K (Glassdoor est.)",
+    "Converted_Salary": 44,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Salina Regional Health Center",
+    "Company Score": 3.5,
+    "Job Title": "Campus Undergraduate – 2025 US Consumer Services Data Analytics Summer Internship New York, NY",
+    "Location": "United States",
+    "Salary": "$75K - $104K (Glassdoor est.)",
+    "Converted_Salary": 75,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Leaner Creamer",
+    "Company Score": 3.6,
+    "Job Title": "INFORMATION TECHNOLOGY INTERN",
+    "Location": "Salina, KS",
+    "Salary": "$53K - $86K (Glassdoor est.)",
+    "Converted_Salary": 53,
+    "In_GA": "No"
+  },
+  {
+    "Company": "D.C. Witness",
+    "Company Score": 3.6,
+    "Job Title": "Pinterest Marketing Intern",
+    "Location": "Los Angeles, CA",
+    "Salary": "$34K - $44K (Glassdoor est.)",
+    "Converted_Salary": 34,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Baylor College of Medicine",
+    "Company Score": 3.7,
+    "Job Title": "Editorial Intern",
+    "Location": "Washington, DC",
+    "Salary": "$40K - $56K (Glassdoor est.)",
+    "Converted_Salary": 40,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Joby Aviation",
+    "Company Score": 3.8,
+    "Job Title": "Intern/Aide",
+    "Location": "United States",
+    "Salary": "$53K - $98K (Glassdoor est.)",
+    "Converted_Salary": 53,
+    "In_GA": "No"
+  },
+  {
+    "Company": "VIP Detailing NJ LLC",
+    "Company Score": 5,
+    "Job Title": "Flight Control Systems Intern",
+    "Location": "Santa Cruz, CA",
+    "Salary": "$14.00 Per Hour (Employer est.)",
+    "Converted_Salary": 14,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Yancey Bros. Co.",
+    "Company Score": 3.4,
+    "Job Title": "Sales Intern",
+    "Location": "Elizabeth, NJ",
+    "Salary": "$5K (Employer est.)",
+    "Converted_Salary": "5K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Applexus",
+    "Company Score": 4.2,
+    "Job Title": "Product Support Data Interns",
+    "Location": "Austell, GA",
+    "Salary": "$17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Vanguard",
+    "Company Score": 3.3,
+    "Job Title": "SAP Analytics Cloud (SAC) Intern",
+    "Location": "Seattle, WA",
+    "Salary": "$18.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Deceuninck North America",
+    "Company Score": 3.7,
+    "Job Title": "College to Corporate Internship – Data Analyst Advanced Development Program",
+    "Location": "Charlotte, NC",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Isuzu",
+    "Company Score": 3.6,
+    "Job Title": "Engineering Intern (Spring 2025)",
+    "Location": "Monroe, OH",
+    "Salary": "$92K - $141K (Glassdoor est.)",
+    "Converted_Salary": 92,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Proliance Surgeons, Inc.",
+    "Company Score": 3.8,
+    "Job Title": "CV Testing & MBD Intern",
+    "Location": "Plymouth, MI",
+    "Salary": "$54K - $81K (Glassdoor est.)",
+    "Converted_Salary": 54,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 4.3,
+    "Job Title": "Operations Intern",
+    "Location": "Issaquah, WA",
+    "Salary": "$8.00 Per Hour (Employer est.)",
+    "Converted_Salary": "8.",
+    "In_GA": "No"
+  },
+  {
+    "Company": "State Council of Higher Educ",
+    "Company Score": 3.2,
+    "Job Title": "Backend Software Engineer Intern (TikTok Data Ecosystem, Data Lake) - 2025 Summer (BS/MS)",
+    "Location": "San Jose, CA",
+    "Salary": "$17.50 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "South Dakota State Government",
+    "Company Score": 3.2,
+    "Job Title": "Virginia Talent + Opportunity Partnership Data Analytics Intern (#W0018)",
+    "Location": "Richmond, VA",
+    "Salary": "$16.00 - $18.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Amex",
+    "Company Score": 3.6,
+    "Job Title": "Intern- Hatchery (Spring)",
+    "Location": "Spearfish, SD",
+    "Salary": "$34K - $54K (Glassdoor est.)",
+    "Converted_Salary": 34,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cobalt Stages",
+    "Company Score": 3.7,
+    "Job Title": "Campus Undergraduate - 2025 Global Servicing & Business Strategy Summer Internship Sunrise, FL",
+    "Location": "Sunrise, FL",
+    "Salary": "$22.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 3.7,
+    "Job Title": "Film Production Intern",
+    "Location": "Woodstock, NY",
+    "Salary": "$17.10 - $20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "IGT",
+    "Company Score": 2.4,
+    "Job Title": "Ad Data Solutions Intern (Global Business Solutions - Data Analytics) - 2025 Summer/Fall (BS/MS/MBA/PhD)",
+    "Location": "United States",
+    "Salary": "$71K - $111K (Glassdoor est.)",
+    "Converted_Salary": 71,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Great American Insurance Company",
+    "Company Score": 4.1,
+    "Job Title": "Market Research Analyst Intern",
+    "Location": "Austin, TX",
+    "Salary": "$19.00 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Simon-Kucher & Partners",
+    "Company Score": 3.9,
+    "Job Title": "Actuarial Intern - Summer 2025",
+    "Location": "Cincinnati, OH",
+    "Salary": "$45K - $73K (Glassdoor est.)",
+    "Converted_Salary": 45,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Viamatrix, Inc.",
+    "Company Score": 3,
+    "Job Title": "[UG/MS] Summer 2025 Intern/Associate Consultant - Americas Division",
+    "Location": "Atlanta, IN",
+    "Salary": "$48K - $74K (Glassdoor est.)",
+    "Converted_Salary": 48,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mars",
+    "Company Score": 3.3,
+    "Job Title": "Global Fuels Intern Analyst",
+    "Location": "Charlotte, NC",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Berry Global, Inc",
+    "Company Score": 3,
+    "Job Title": "Summer 2025 Mars Wrigley Research & Development Internship - Chicago, IL",
+    "Location": "Chicago, IL",
+    "Salary": "$19.00 - $30.00 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Entergy Corporation",
+    "Company Score": 3.4,
+    "Job Title": "PT BUSINESS ANALYTICS INTERN, YEAR ROUND",
+    "Location": "Evansville, IN",
+    "Salary": "$19.13 - $30.00 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Menards",
+    "Company Score": 4.3,
+    "Job Title": "(Spring 2025) Student, Intern - Consolidated Security Operations Center Analyst (CSOC)",
+    "Location": "The Woodlands, TX",
+    "Salary": "$44K - $69K (Glassdoor est.)",
+    "Converted_Salary": 44,
+    "In_GA": "No"
+  },
+  {
+    "Company": "New England Aquarium",
+    "Company Score": 3.4,
+    "Job Title": "Information Systems Internship",
+    "Location": "Eau Claire, WI",
+    "Salary": "$21.00 - $34.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Speedway Motors Inc.",
+    "Company Score": 3.7,
+    "Job Title": "Volunteer Database Management Intern (Fall 2024)",
+    "Location": "Boston, MA",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Relay",
+    "Company Score": 3.4,
+    "Job Title": "Financial Analyst Intern",
+    "Location": "Lincoln, NE",
+    "Salary": "$20.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Stand Together",
+    "Company Score": 3.3,
+    "Job Title": "Finance Intern (Financial Planning + Analysis)",
+    "Location": "Raleigh, NC",
+    "Salary": "$24.05 - $63.00 Per Hour (Employer est.)",
+    "Converted_Salary": 24,
+    "In_GA": "No"
+  },
+  {
+    "Company": "RippleMatch Opportunities",
+    "Company Score": 2.9,
+    "Job Title": "KIP Fall 2024 - Media Intern - The Knee Regulatory Research Center",
+    "Location": "United States",
+    "Salary": "$36K - $60K (Glassdoor est.)",
+    "Converted_Salary": 36,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 3.7,
+    "Job Title": "KPMG - Tax Intern (Winter 2025), application via RippleMatch",
+    "Location": "Minneapolis, MN",
+    "Salary": "$37K - $56K (Glassdoor est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "IESC – the International Executive Service Corps",
+    "Company Score": 3.5,
+    "Job Title": "Information Governance Intern (Data Protection) - 2025 Summer (BS/MS)",
+    "Location": "San Jose, CA",
+    "Salary": "$34K - $54K (Glassdoor est.)",
+    "Converted_Salary": 34,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ZS",
+    "Company Score": 4.2,
+    "Job Title": "Internship Program",
+    "Location": "Georgia",
+    "Salary": "$20.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Riveron",
+    "Company Score": 3.8,
+    "Job Title": "Business Technology Solutions Associate - Intern",
+    "Location": "Evanston, IL",
+    "Salary": "$20.00 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Infinity Energy",
+    "Company Score": 4.2,
+    "Job Title": "Business Transformation - Intern",
+    "Location": "Chicago, IL",
+    "Salary": "$16.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mars",
+    "Company Score": 3.9,
+    "Job Title": "Business Development Intern",
+    "Location": "Orange, CA",
+    "Salary": "$37K - $48K (Glassdoor est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Bank of China Limited, New York Branch",
+    "Company Score": 5,
+    "Job Title": "Summer 2025 Mars Wrigley Procurement - Supply Chain Management Internship - Hackettstown, NJ",
+    "Location": "Hackettstown, NJ",
+    "Salary": "$100K - $150K (Employer est.)",
+    "Converted_Salary": 10,
+    "In_GA": "No"
+  },
+  {
+    "Company": "FloSports",
+    "Company Score": 3.8,
+    "Job Title": "ADC/RSD Information/Cybersecurity Intern",
+    "Location": "United States",
+    "Salary": "$61K - $114K (Glassdoor est.)",
+    "Converted_Salary": 61,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mountainland Association of Governments",
+    "Company Score": 3.9,
+    "Job Title": "Fall Internship - Global Partnerships",
+    "Location": "Remote",
+    "Salary": "$60K - $97K (Glassdoor est.)",
+    "Converted_Salary": 60,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ByteDance",
+    "Company Score": 3.6,
+    "Job Title": "GIS Data Intern",
+    "Location": "Orem, UT",
+    "Salary": "$44K - $59K (Glassdoor est.)",
+    "Converted_Salary": 44,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ByteDance",
+    "Company Score": 5,
+    "Job Title": "Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)",
+    "Location": "San Jose, CA",
+    "Salary": "$20.00 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "United Soccer League",
+    "Company Score": 4,
+    "Job Title": "Relational Database Intern (Data Tech Infra) - 2025 Summer (MS)",
+    "Location": "San Jose, CA",
+    "Salary": "$18.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Springer Capital",
+    "Company Score": 3.9,
+    "Job Title": "Technology & Data Services UWEP Internship - Fall 2024",
+    "Location": "Remote",
+    "Salary": "$29K - $47K (Glassdoor est.)",
+    "Converted_Salary": 29,
+    "In_GA": "No"
+  },
+  {
+    "Company": "BCC Engineering",
+    "Company Score": 5,
+    "Job Title": "Diversity Outreach Intern (Remote)",
+    "Location": "Remote",
+    "Salary": "$45K - $73K (Glassdoor est.)",
+    "Converted_Salary": 45,
+    "In_GA": "No"
+  },
+  {
+    "Company": "florrent, Inc.",
+    "Company Score": 3.7,
+    "Job Title": "Roadway Design Intern",
+    "Location": "Altamonte Springs, FL",
+    "Salary": "$58K - $108K (Glassdoor est.)",
+    "Converted_Salary": 58,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Capital One",
+    "Company Score": 3.7,
+    "Job Title": "Marketing & Operations Intern/Co-op",
+    "Location": "Somerville, MA",
+    "Salary": "$22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "MARA",
+    "Company Score": 3.2,
+    "Job Title": "Current PhD - Data Science Internship - Summer 2025",
+    "Location": "McLean, VA",
+    "Salary": "$21.20 - $24.90 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "New America",
+    "Company Score": 3.9,
+    "Job Title": "Part-time Software Development Engineer in Test Intern",
+    "Location": "Dallas, TX",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Leonardo DRS",
+    "Company Score": 3.1,
+    "Job Title": "2024 Fall - Program Coordination Intern (paid)",
+    "Location": "",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Engineersmind",
+    "Company Score": 2,
+    "Job Title": "Fall 2024-Industrial Engineering Intern (MLB, FL)",
+    "Location": "Melbourne, FL",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Children's Legacy Center",
+    "Company Score": 4.1,
+    "Job Title": "Students/Graduates",
+    "Location": "New Jersey",
+    "Salary": "$18.59 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The Salvation Army National Headquarters",
+    "Company Score": 3.3,
+    "Job Title": "Research Assistant Intern",
+    "Location": "Redding, CA",
+    "Salary": "$46K - $69K (Glassdoor est.)",
+    "Converted_Salary": 46,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mars",
+    "Company Score": 4.3,
+    "Job Title": "Livelihoods Intern",
+    "Location": "Alexandria, VA",
+    "Salary": "$70K - $103K (Glassdoor est.)",
+    "Converted_Salary": 70,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cleveland Metropolitan School District",
+    "Company Score": 2.3,
+    "Job Title": "Summer 2025 Mars Wrigley Supply Chain Internship - Hackettstown, NJ",
+    "Location": "Hackettstown, NJ",
+    "Salary": "$53K - $85K (Glassdoor est.)",
+    "Converted_Salary": 53,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ExxonMobil",
+    "Company Score": 3.7,
+    "Job Title": "College Intern - Internal Audit",
+    "Location": "Cleveland, OH",
+    "Salary": "$40K - $59K (Glassdoor est.)",
+    "Converted_Salary": 40,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cal “Cash” Jackson-Green Jr . For City Council",
+    "Company Score": 2.9,
+    "Job Title": "PhD Students Seeking Internship Opportunities",
+    "Location": "Houston, TX",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Y-UNIVERSE, INC",
+    "Company Score": 3.9,
+    "Job Title": "Campaign Intern",
+    "Location": "Virginia Beach, VA",
+    "Salary": "$100K - $150K (Employer est.)",
+    "Converted_Salary": 10,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Commonwealth of PA",
+    "Company Score": 3.7,
+    "Job Title": "Marketing intern(E-Commerce)",
+    "Location": "Los Angeles, CA",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Astrobotic Technology Inc",
+    "Company Score": 3,
+    "Job Title": "Office of Health Equity Policy Intern (College)",
+    "Location": "Colonial Park, Dauphin, PA",
+    "Salary": "$53K - $72K (Glassdoor est.)",
+    "Converted_Salary": 53,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Allegheny County Department of Human Services",
+    "Company Score": 3.6,
+    "Job Title": "Fall Internship 2024 - Propulsion & Test",
+    "Location": "Mojave, CA",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Vanguard",
+    "Company Score": 3.5,
+    "Job Title": "Internships at DHS",
+    "Location": "Pittsburgh, PA",
+    "Salary": "$16.00 - $46.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Westinghouse Electric Co",
+    "Company Score": 4.2,
+    "Job Title": "Data Scientist Advanced Development Program Internship",
+    "Location": "Charlotte, NC",
+    "Salary": "$46K - $68K (Glassdoor est.)",
+    "Converted_Salary": 46,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Social May Media LLC",
+    "Company Score": 4.2,
+    "Job Title": "eVinci Operations Engineering Intern",
+    "Location": "Etna, PA",
+    "Salary": "$50K - $71K (Glassdoor est.)",
+    "Converted_Salary": 50,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Council on Foreign Relations",
+    "Company Score": 3.1,
+    "Job Title": "Project Manager Internship",
+    "Location": "Remote",
+    "Salary": "$38.00 Per Hour (Employer est.)",
+    "Converted_Salary": 38,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Tabyt",
+    "Company Score": 1.6,
+    "Job Title": "Internship, Foreign Affairs, Marketing Product, Fall 2024",
+    "Location": "United States",
+    "Salary": "$109K - $191K (Glassdoor est.)",
+    "Converted_Salary": 10,
+    "In_GA": "No"
+  },
+  {
+    "Company": "RippleMatch Opportunities",
+    "Company Score": 3.8,
+    "Job Title": "Intern - Research Data Assistant (2 Vacancies)",
+    "Location": "Atlanta, GA",
+    "Salary": "$70K - $109K (Glassdoor est.)",
+    "Converted_Salary": 70,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "The Erosion Company",
+    "Company Score": 3.1,
+    "Job Title": "GSK - Fall Co-op/Drug Product Development, application via RippleMatch",
+    "Location": "United States",
+    "Salary": "$20.50 - $26.50 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PNG WORLDWIDE",
+    "Company Score": 3.8,
+    "Job Title": "Commercial Analytics Summer 2025 Internship",
+    "Location": "Jacksonville, FL",
+    "Salary": "$18.00 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "NFP Corp",
+    "Company Score": 3.8,
+    "Job Title": "Supply Chain Analytics Intern",
+    "Location": "Lititz, PA",
+    "Salary": "$23.13 - $47.48 Per Hour (Employer est.)",
+    "Converted_Salary": 23,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Sony Pictures Entertainment, Inc.",
+    "Company Score": 3.2,
+    "Job Title": "Fall Co-op Intern - Analytics Analyst",
+    "Location": "Norwell, MA",
+    "Salary": "$18.00 - $20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Isuzu Technical Center of America, Inc. (ITCA)",
+    "Company Score": 3.9,
+    "Job Title": "Social Analytics & Insights Intern, SPT Research – Fall 2024",
+    "Location": "Culver City, CA",
+    "Salary": "$24.26 - $28.39 Per Hour (Employer est.)",
+    "Converted_Salary": 24,
+    "In_GA": "No"
+  },
+  {
+    "Company": "EVERSOURCE",
+    "Company Score": 4.1,
+    "Job Title": "CV Testing & MBD Intern",
+    "Location": "Plymouth, MI",
+    "Salary": "$19.00 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Advanced Technology Search Group",
+    "Company Score": 4.1,
+    "Job Title": "Solar Program Intern",
+    "Location": "Westwood, MA",
+    "Salary": "$40K - $71K (Glassdoor est.)",
+    "Converted_Salary": 40,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Los Alamos National Laboratory",
+    "Company Score": 3,
+    "Job Title": "Marketing Internship",
+    "Location": "Remote",
+    "Salary": "$16.00 - $46.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Eaton",
+    "Company Score": 3.5,
+    "Job Title": "Biomedical Sciences Post-Baccalaureate Intern",
+    "Location": "Los Alamos, NM",
+    "Salary": "$20.40 - $28.30 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ClariMed, Inc.",
+    "Company Score": 3.8,
+    "Job Title": "Internship Program: Information Technology",
+    "Location": "Coraopolis, PA",
+    "Salary": "$17.50 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Strider Technologies",
+    "Company Score": 3.9,
+    "Job Title": "Human Factors Engineering Intern -San Jose, CA",
+    "Location": "San Jose, CA",
+    "Salary": "$25.00 - $38.00 Per Hour (Employer est.)",
+    "Converted_Salary": 25,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The Education Trust",
+    "Company Score": 3.7,
+    "Job Title": "Intelligence Specialist Internship - China Focus",
+    "Location": "South Jordan, UT",
+    "Salary": "$16.00 - $46.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "WSP",
+    "Company Score": 4.4,
+    "Job Title": "Higher Ed Research Intern",
+    "Location": "Washington, DC",
+    "Salary": "$43K - $74K (Glassdoor est.)",
+    "Converted_Salary": 43,
+    "In_GA": "No"
+  },
+  {
+    "Company": "CGT",
+    "Company Score": 4,
+    "Job Title": "Zero-Emission Vehicle Planning Intern - Fall 2024",
+    "Location": "New York, NY",
+    "Salary": "$20.00 - $23.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ENGIE ENERGY MARKETING NA, INC.",
+    "Company Score": 3.7,
+    "Job Title": "Engineering Intern",
+    "Location": "New Braunfels, TX",
+    "Salary": "$40.00 Per Hour (Employer est.)",
+    "Converted_Salary": 40,
+    "In_GA": "No"
+  },
+  {
+    "Company": "American Counseling Association",
+    "Company Score": 3.8,
+    "Job Title": "Intern - Power Congestion",
+    "Location": "Houston, TX",
+    "Salary": "$53K - $96K (Glassdoor est.)",
+    "Converted_Salary": 53,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PRISM",
+    "Company Score": 3.5,
+    "Job Title": "Education Intern",
+    "Location": "Alexandria, VA",
+    "Salary": "$17.50 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TruText",
+    "Company Score": 3.7,
+    "Job Title": "Intern - Risk Control",
+    "Location": "Folsom, CA",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Amex",
+    "Company Score": 3.5,
+    "Job Title": "Marketing Intern - SaaS Startup (Growth Focused)",
+    "Location": "Pennsylvania",
+    "Salary": "$71K - $120K (Glassdoor est.)",
+    "Converted_Salary": 71,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Michigan Sugar Company",
+    "Company Score": 3.6,
+    "Job Title": "Campus Undergraduate - 2025 Internal Audit Group Staff Auditor Summer Internship Salt Lake City, UT",
+    "Location": "Salt Lake City, UT",
+    "Salary": "$55.00 Per Hour (Employer est.)",
+    "Converted_Salary": 55,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Consumer Technology Association",
+    "Company Score": 3.1,
+    "Job Title": "Finance Intern",
+    "Location": "Bay City, MI",
+    "Salary": "$29K - $43K (Glassdoor est.)",
+    "Converted_Salary": 29,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Prospect Select Baseball",
+    "Company Score": 4.1,
+    "Job Title": "Web Content Intern (Up to 11 mos.)",
+    "Location": "Arlington, VA",
+    "Salary": "$70K - $92K (Glassdoor est.)",
+    "Converted_Salary": 70,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Prime AE Group Inc",
+    "Company Score": 3.7,
+    "Job Title": "Fall Data Analytics Internship - National",
+    "Location": "Jupiter, FL",
+    "Salary": "$22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The MITRE Corporation",
+    "Company Score": 4,
+    "Job Title": "Engineering Intern",
+    "Location": "Jacksonville, FL",
+    "Salary": "$18.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Alcatel-Lucent",
+    "Company Score": 3.3,
+    "Job Title": "Data Science / Math / Statistics / Operations Research Internships",
+    "Location": "McLean, VA",
+    "Salary": "$50K - $68K (Glassdoor est.)",
+    "Converted_Salary": 50,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Open Road Media",
+    "Company Score": 3.8,
+    "Job Title": "Intern, Sales Analyst",
+    "Location": "Thousand Oaks, CA",
+    "Salary": "$37K - $62K (Employer est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "OED",
+    "Company Score": 3.7,
+    "Job Title": "Marketing Analytics Intern – Paid Fall 2024",
+    "Location": "United States",
+    "Salary": "$21.00 - $23.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "MyMichigan Health",
+    "Company Score": 3.3,
+    "Job Title": "Entry Level Event Assistant",
+    "Location": "Richmond, VA",
+    "Salary": "$36.06 - $50.48 Per Hour (Employer est.)",
+    "Converted_Salary": 36,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Tesla",
+    "Company Score": 3.8,
+    "Job Title": "Behavioral Health Intern",
+    "Location": "Alma, MI",
+    "Salary": "$50.00 Per Hour (Employer est.)",
+    "Converted_Salary": 50,
+    "In_GA": "No"
+  },
+  {
+    "Company": "RippleMatch Opportunities",
+    "Company Score": 2.4,
+    "Job Title": "Internship, Integration Engineer, Autonomy (Winter/Spring 2025)",
+    "Location": "Palo Alto, CA",
+    "Salary": "$37K - $54K (Glassdoor est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Neil Parrott Campaign",
+    "Company Score": 4,
+    "Job Title": "Alliance Technical Group - Engineering Intern, application via RippleMatch",
+    "Location": "Baton Rouge, LA",
+    "Salary": "$18.00 - $35.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Schneider Electric",
+    "Company Score": 3.1,
+    "Job Title": "August Congressional Campaign Intern",
+    "Location": "Hagerstown, MD",
+    "Salary": "$19.23 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Briggs & Stratton",
+    "Company Score": 3.3,
+    "Job Title": "Quality Engineer CO-OP (Fall 2024)",
+    "Location": "Mechanicsburg, PA",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Bristol-Myers Squibb",
+    "Company Score": 3.9,
+    "Job Title": "IT Security Intern",
+    "Location": "Wauwatosa, WI",
+    "Salary": "$20.50 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Grower Direct Nut Company",
+    "Company Score": 4.5,
+    "Job Title": "Information Technology Rotational Development Program Internship - Summer 2025",
+    "Location": "",
+    "Salary": "$18.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "OsborneKlein (Ameriprise Financial)",
+    "Company Score": 4.1,
+    "Job Title": "Sales & Operations Intern",
+    "Location": "Hughson, CA",
+    "Salary": "$45.00 Per Hour (Employer est.)",
+    "Converted_Salary": 45,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The Bank of New York Mellon Corporation",
+    "Company Score": 3.6,
+    "Job Title": "Intern - Technical Analysis",
+    "Location": "Portage, MI",
+    "Salary": "$21.00 - $40.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Brookfield Properties",
+    "Company Score": 4.3,
+    "Job Title": "2025 BNY Summer Internship Program - Engineering (Data Science)",
+    "Location": "Pittsburgh, PA",
+    "Salary": "$20.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "CVS Health",
+    "Company Score": 4.1,
+    "Job Title": "Revenue Management Intern",
+    "Location": "Charleston, SC",
+    "Salary": "$28.00 - $32.00 Per Hour (Employer est.)",
+    "Converted_Salary": 28,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Simplot",
+    "Company Score": 4,
+    "Job Title": "Actuarial Corporate Intern - 2025",
+    "Location": "Hartford, CT",
+    "Salary": "$38.00 Per Hour (Employer est.)",
+    "Converted_Salary": 38,
+    "In_GA": "No"
+  },
+  {
+    "Company": "EY",
+    "Company Score": 4.2,
+    "Job Title": "Quality Assurance Intern - Caldwell, ID",
+    "Location": "Caldwell, ID",
+    "Salary": "$43K - $78K (Glassdoor est.)",
+    "Converted_Salary": 43,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Harry and David",
+    "Company Score": 4.1,
+    "Job Title": "San Juan - Assurance - Audit - Winter Intern - FY25",
+    "Location": "San Juan, PR",
+    "Salary": "$52.25 Per Hour (Employer est.)",
+    "Converted_Salary": 52,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Delve",
+    "Company Score": 3.9,
+    "Job Title": "Research & Development Internship",
+    "Location": "Medford, OR",
+    "Salary": "$25.00 - $32.00 Per Hour (Employer est.)",
+    "Converted_Salary": 25,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Kaiser Permanente",
+    "Company Score": 4.1,
+    "Job Title": "Digital Marketing Intern (Creative Division)",
+    "Location": "Boulder, CO",
+    "Salary": "$16.67 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Council Of State And Territorial Epidemiologists",
+    "Company Score": 3.8,
+    "Job Title": "Project Manager Bachelor's Intern",
+    "Location": "Los Angeles, CA",
+    "Salary": "$49K - $72K (Glassdoor est.)",
+    "Converted_Salary": 49,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The Cincinnati Insurance Companies",
+    "Company Score": 3.9,
+    "Job Title": "Intern-Training",
+    "Location": "Atlanta, GA",
+    "Salary": "$6K - $8K (Employer est.)",
+    "Converted_Salary": "6K",
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Albatrans Inc",
+    "Company Score": 4.1,
+    "Job Title": "Student Opportunities - Actuarial Internship - Summer 2025 (Hybrid)",
+    "Location": "Fairfield, OH",
+    "Salary": "$22.50 - $31.50 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "City of Columbia, MO",
+    "Company Score": 4.3,
+    "Job Title": "Sales and Marketing Intern",
+    "Location": "Edison, NJ",
+    "Salary": "$1K - $2K (Employer est.)",
+    "Converted_Salary": "1K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Gwinnett County",
+    "Company Score": 4.2,
+    "Job Title": "Public Finance/Data Science Internship (Temporary - Part time)",
+    "Location": "Columbia, MO",
+    "Salary": "$95K - $164K (Glassdoor est.)",
+    "Converted_Salary": 95,
+    "In_GA": "No"
+  },
+  {
+    "Company": "DSM",
+    "Company Score": 3.3,
+    "Job Title": "Part-time Laboratory Technician Intern (Technical Services)",
+    "Location": "United States",
+    "Salary": "$34K - $53K (Glassdoor est.)",
+    "Converted_Salary": 34,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Sanborn, Head & Associates, Inc.",
+    "Company Score": 4.3,
+    "Job Title": "Apprentice Supply Chain Controlling",
+    "Location": "Connecticut",
+    "Salary": "$17.20 - $19.20 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Energy Impact Partners",
+    "Company Score": 4.2,
+    "Job Title": "Developer Internship",
+    "Location": "Boston, MA",
+    "Salary": "$51K - $79K (Glassdoor est.)",
+    "Converted_Salary": 51,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Deloitte",
+    "Company Score": 3.6,
+    "Job Title": "Intern, Financial Analytics",
+    "Location": "Washington, DC",
+    "Salary": "$15.03 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "L3Harris Technologies",
+    "Company Score": 4.1,
+    "Job Title": "Deloitte Government & Public Services Risk & Financial Advisory Intern - Analytics - Summer 2025",
+    "Location": "Rosslyn, VA",
+    "Salary": "$27.06 Per Hour (Employer est.)",
+    "Converted_Salary": 27,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Continental",
+    "Company Score": 3.3,
+    "Job Title": "Intern, Additive Manufacturing",
+    "Location": "Daytona Beach, FL",
+    "Salary": "$25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 25,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The Bank of New York Mellon Corporation",
+    "Company Score": 3.8,
+    "Job Title": "Production Planning Intern",
+    "Location": "Halstead, KS",
+    "Salary": "$58K - $108K (Glassdoor est.)",
+    "Converted_Salary": 58,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cryoport Systems",
+    "Company Score": 3.7,
+    "Job Title": "2025 BNY Summer Internship Program – BNY Wealth (Dallas, TX)",
+    "Location": "Dallas, TX",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Tesla",
+    "Company Score": 5,
+    "Job Title": "Product Management and Marketing Intern",
+    "Location": "Irvine, CA",
+    "Salary": "$35K - $51K (Glassdoor est.)",
+    "Converted_Salary": 35,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Luo & Associates Law Group",
+    "Company Score": 3.2,
+    "Job Title": "Internship, Fullstack Engineer, AI Tooling (Winter/Spring 2025)",
+    "Location": "Palo Alto, CA",
+    "Salary": "$16.57 - $33.06 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "InComm Payments",
+    "Company Score": 3.7,
+    "Job Title": "Digital Marketing Intern",
+    "Location": "Manhattan",
+    "Salary": "$18.33 - $21.40 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "New York State Housing Finance Agency",
+    "Company Score": 4,
+    "Job Title": "Product Implementation Intern",
+    "Location": "Atlanta, GA",
+    "Salary": "$14.70 - $21.50 Per Hour (Employer est.)",
+    "Converted_Salary": 14,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Volvo Group",
+    "Company Score": 4.2,
+    "Job Title": "Research and Strategic Analysis Intern",
+    "Location": "United States",
+    "Salary": "$39K - $50K (Glassdoor est.)",
+    "Converted_Salary": 39,
+    "In_GA": "No"
+  },
+  {
+    "Company": "David Pan for Congress 2024",
+    "Company Score": 3.1,
+    "Job Title": "Intern: Enterprise Architecture (Spring 2025)",
+    "Location": "Greensboro, NC",
+    "Salary": "$38.00 Per Hour (Employer est.)",
+    "Converted_Salary": 38,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Zel Technologies",
+    "Company Score": 3.8,
+    "Job Title": "Political Internship",
+    "Location": "Orange, CA",
+    "Salary": "$59K - $94K (Glassdoor est.)",
+    "Converted_Salary": 59,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Baltimore Witness",
+    "Company Score": 3.7,
+    "Job Title": "Legal Skillbridge Intern",
+    "Location": "United States",
+    "Salary": "$31K - $54K (Glassdoor est.)",
+    "Converted_Salary": 31,
+    "In_GA": "No"
+  },
+  {
+    "Company": "AbbVie",
+    "Company Score": 3.5,
+    "Job Title": "Editorial Intern",
+    "Location": "Baltimore, MD",
+    "Salary": "$26.00 - $30.00 Per Hour (Employer est.)",
+    "Converted_Salary": 26,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Purecars",
+    "Company Score": 3.3,
+    "Job Title": "2025 Operations Intern",
+    "Location": "North Chicago, IL",
+    "Salary": "$21.91 - $32.21 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Medtronic",
+    "Company Score": 3.9,
+    "Job Title": "Ad Operations Specialist, Enterprise Dealer Groups",
+    "Location": "Atlanta, GA",
+    "Salary": "$34K - $47K (Glassdoor est.)",
+    "Converted_Salary": 34,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "ByteDance",
+    "Company Score": 3.5,
+    "Job Title": "Quality Engineering Intern – Summer 2025 (Graduate)",
+    "Location": "Minneapolis, MN",
+    "Salary": "$49K - $72K (Glassdoor est.)",
+    "Converted_Salary": 49,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 3.9,
+    "Job Title": "Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)",
+    "Location": "Seattle, WA",
+    "Salary": "$76K - $128K (Employer est.)",
+    "Converted_Salary": 76,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Continental",
+    "Company Score": 3.4,
+    "Job Title": "Sales Intern (Global Business Solutions -US Enterprise-Tech Telcom & Travel) - 2025 Summer (BS/MS)",
+    "Location": "Los Angeles, CA",
+    "Salary": "$21.00 - $28.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Morris Speech Therapy Associates, LLC",
+    "Company Score": 3.7,
+    "Job Title": "Intern - Demand & Supply Balancing Analyst Intern, Year-Round",
+    "Location": "Fort Mill, SC",
+    "Salary": "$16.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "BD",
+    "Company Score": 3.3,
+    "Job Title": "W League Operations UWEP Internship - Fall 2024",
+    "Location": "Remote",
+    "Salary": "$16.50 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Ormco",
+    "Company Score": 4.1,
+    "Job Title": "2025 BD Summer Internship Program - Edge Intern (Technology & Global Services)",
+    "Location": "Franklin Lakes, NJ",
+    "Salary": "$21.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cooper University Health Care",
+    "Company Score": 2.7,
+    "Job Title": "R&D Engineering Intern",
+    "Location": "Brea, CA",
+    "Salary": "$37K - $62K (Glassdoor est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Metropolitan Area Planning Council",
+    "Company Score": 3.7,
+    "Job Title": "ENTERPRISE ANALYTICS INTERN",
+    "Location": "Camden, NJ",
+    "Salary": "$41K - $74K (Glassdoor est.)",
+    "Converted_Salary": 41,
+    "In_GA": "No"
+  },
+  {
+    "Company": "pSemi",
+    "Company Score": 3.8,
+    "Job Title": "Environmental Planning Intern",
+    "Location": "Boston, MA",
+    "Salary": "$25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 25,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Symbrosia Inc.",
+    "Company Score": 3.9,
+    "Job Title": "Intern, Characterization Device Modeling - Summer 2024",
+    "Location": "United States",
+    "Salary": "$22.00 - $24.00 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "SLAC National Accelerator Laboratory",
+    "Company Score": 3.3,
+    "Job Title": "Animal Science Internship",
+    "Location": "Remote",
+    "Salary": "$41.00 - $43.00 Per Hour (Employer est.)",
+    "Converted_Salary": 41,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Deceuninck North America",
+    "Company Score": 4.5,
+    "Job Title": "Intern - Controls and Data Systems Engineering",
+    "Location": "Menlo Park, CA",
+    "Salary": "$18.00 - $26.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mars",
+    "Company Score": 3.9,
+    "Job Title": "Environmental Health & Safety Intern (Spring 2025)",
+    "Location": "Monroe, OH",
+    "Salary": "$45K - $74K (Glassdoor est.)",
+    "Converted_Salary": 45,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Volvo Group",
+    "Company Score": 3.7,
+    "Job Title": "Summer 2025 Mars Petcare Research and Development - Packaging Co-Op - Franklin, TN",
+    "Location": "Franklin, TN",
+    "Salary": "$36K - $64K (Glassdoor est.)",
+    "Converted_Salary": 36,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cargill",
+    "Company Score": 4.4,
+    "Job Title": "Co-Op: Quality - Digitization (Spring 2025)",
+    "Location": "Hagerstown, MD",
+    "Salary": "$36K - $48K (Glassdoor est.)",
+    "Converted_Salary": 36,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Council on Foreign Relations",
+    "Company Score": 3.8,
+    "Job Title": "Food Safety, Quality and Regulatory Intern - Summer 2025",
+    "Location": "Wayzata, MN",
+    "Salary": "$16.00 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Michelin",
+    "Company Score": 3.3,
+    "Job Title": "Internship, Digital Content, Editorial, Fall 2024",
+    "Location": "Washington, DC",
+    "Salary": "$53K - $81K (Glassdoor est.)",
+    "Converted_Salary": 53,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Advanced Energy Industries, Inc.",
+    "Company Score": 4.1,
+    "Job Title": "2024 Fall Engineering Intern / Co-Op_Covington, GA",
+    "Location": "Covington, GA",
+    "Salary": "$20.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Volvo Group",
+    "Company Score": 3.5,
+    "Job Title": "Intern/Co-Op - Chemical Engineer - Fall 2024",
+    "Location": "Milpitas, CA",
+    "Salary": "$52K - $72K (Glassdoor est.)",
+    "Converted_Salary": 52,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Atrium Health",
+    "Company Score": 3.7,
+    "Job Title": "Intern: Business Control (Fall 2024)",
+    "Location": "Greensboro, NC",
+    "Salary": "$44.00 - $57.00 Per Hour (Employer est.)",
+    "Converted_Salary": 44,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Altria",
+    "Company Score": 3.5,
+    "Job Title": "Student Intern - Rise to Success",
+    "Location": "Rome, GA",
+    "Salary": "$38K - $56K (Glassdoor est.)",
+    "Converted_Salary": 38,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "EN-POWER GROUP",
+    "Company Score": 4,
+    "Job Title": "Undergraduate Intern Sales - TMCF",
+    "Location": "United States",
+    "Salary": "$1K (Employer est.)",
+    "Converted_Salary": "1K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Accial Capital",
+    "Company Score": 3.1,
+    "Job Title": "Excel/VBA Solutions Intern",
+    "Location": "New York, NY",
+    "Salary": "$58K - $99K (Glassdoor est.)",
+    "Converted_Salary": 58,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mars",
+    "Company Score": 4.3,
+    "Job Title": "Impact Reporting Consultant (Intern)",
+    "Location": "Remote",
+    "Salary": "$8.00 Per Hour (Employer est.)",
+    "Converted_Salary": "8.",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Delta Air Lines, Inc.",
+    "Company Score": 3.1,
+    "Job Title": "Summer 2025 Mars Wrigley Strategic Sales Internship Newark, NJ",
+    "Location": "Newark, NJ",
+    "Salary": "$35K - $51K (Glassdoor est.)",
+    "Converted_Salary": 35,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 4,
+    "Job Title": "Graduate Intern - Optimization (Spring, 2025)",
+    "Location": "Atlanta, GA",
+    "Salary": "$45K - $66K (Glassdoor est.)",
+    "Converted_Salary": 45,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Isuzu Technical Center of America, Inc. (ITCA)",
+    "Company Score": 4.3,
+    "Job Title": "Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)",
+    "Location": "New York, NY",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mars",
+    "Company Score": 4.1,
+    "Job Title": "Commercial Vehicle Engineering Intern",
+    "Location": "Plymouth, MI",
+    "Salary": "$33K - $44K (Glassdoor est.)",
+    "Converted_Salary": 33,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Council on Foreign Relations",
+    "Company Score": 4.2,
+    "Job Title": "Summer 2025 Mars Wrigley Research & Development - Hackettstown, NJ",
+    "Location": "Hackettstown, NJ",
+    "Salary": "$50K - $70K (Glassdoor est.)",
+    "Converted_Salary": 50,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TaxSlayer",
+    "Company Score": 2.9,
+    "Job Title": "Internship, Education, Written Content, Fall 2024",
+    "Location": "United States",
+    "Salary": "$44K - $65K (Employer est.)",
+    "Converted_Salary": 44,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Honeywell",
+    "Company Score": 4.3,
+    "Job Title": "Governance, Risk and Compliance Analyst - INTERN",
+    "Location": "Augusta, GA",
+    "Salary": "$50K - $72K (Glassdoor est.)",
+    "Converted_Salary": 50,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 3.9,
+    "Job Title": "High School Manufacturing Intern - Spring 2025 (US Persons)",
+    "Location": "Phoenix, AZ",
+    "Salary": "$48K - $65K (Glassdoor est.)",
+    "Converted_Salary": 48,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Great Southern Wood Preserving",
+    "Company Score": 3.8,
+    "Job Title": "Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)",
+    "Location": "San Jose, CA",
+    "Salary": "$31.00 Per Hour (Employer est.)",
+    "Converted_Salary": 31,
+    "In_GA": "No"
+  },
+  {
+    "Company": "MSA Safety",
+    "Company Score": 3.8,
+    "Job Title": "Analytics Intern",
+    "Location": "Abbeville, AL",
+    "Salary": "$62K - $107K (Glassdoor est.)",
+    "Converted_Salary": 62,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Juvena Therapeutics",
+    "Company Score": 3.7,
+    "Job Title": "Business Process Intern (Fall 2024)",
+    "Location": "Ada, OK",
+    "Salary": "$89K - $163K (Glassdoor est.)",
+    "Converted_Salary": 89,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Delve",
+    "Company Score": 3.6,
+    "Job Title": "Research Associate (Intern)",
+    "Location": "Redwood City, CA",
+    "Salary": "$17.00 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "City of San Antonio",
+    "Company Score": 3.8,
+    "Job Title": "Digital Marketing Intern (Creative Division)",
+    "Location": "Denver, CO",
+    "Salary": "$70K - $91K (Glassdoor est.)",
+    "Converted_Salary": 70,
+    "In_GA": "No"
+  },
+  {
+    "Company": "RTI International",
+    "Company Score": 2,
+    "Job Title": "Council Student Intern I",
+    "Location": "San Antonio, TX",
+    "Salary": "$32K - $46K (Glassdoor est.)",
+    "Converted_Salary": 32,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Trove Brands",
+    "Company Score": 3.7,
+    "Job Title": "Geospatial Data Analyst Internship",
+    "Location": "Durham, NC",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "NJEDA",
+    "Company Score": 3.9,
+    "Job Title": "Supply Chain Processing Analyst Intern",
+    "Location": "Lehi, UT",
+    "Salary": "$53K - $71K (Glassdoor est.)",
+    "Converted_Salary": 53,
+    "In_GA": "No"
+  },
+  {
+    "Company": "BOEING",
+    "Company Score": 3.5,
+    "Job Title": "Product Operations Intern",
+    "Location": "New Jersey",
+    "Salary": "$32K - $55K (Glassdoor est.)",
+    "Converted_Salary": 32,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Groupe Kering",
+    "Company Score": 3.2,
+    "Job Title": "Boeing Summer 2025 Internship Program (Paid) – Environment, Health, and Safety (EHS) and Sustainability",
+    "Location": "Everett, WA",
+    "Salary": "$80K - $133K (Glassdoor est.)",
+    "Converted_Salary": 80,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Tesla",
+    "Company Score": 3.5,
+    "Job Title": "KERING EYEWEAR Sales Brand Ambassador Intern",
+    "Location": "New York, NY",
+    "Salary": "$66K - $100K (Glassdoor est.)",
+    "Converted_Salary": 66,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 3.9,
+    "Job Title": "Internship, Body Controls Systems Integration Engineer, Vehicle Firmware (Winter/Spring 2025)",
+    "Location": "Palo Alto, CA",
+    "Salary": "$6K (Employer est.)",
+    "Converted_Salary": "6K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Kuhlman Corporation",
+    "Company Score": 3.6,
+    "Job Title": "Product Marketing Manager Intern (TikTok Shop Seller Platform)- 2025 Summer (MBA)",
+    "Location": "Seattle, WA",
+    "Salary": "$17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PNC Financial Services Group",
+    "Company Score": 3.1,
+    "Job Title": "Quality Control Intern",
+    "Location": "Toledo, OH",
+    "Salary": "$21.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "CEDARS-SINAI",
+    "Company Score": 3.2,
+    "Job Title": "Quantitative Analytics Undergraduate Intern",
+    "Location": "Pittsburgh, PA",
+    "Salary": "$53K - $91K (Glassdoor est.)",
+    "Converted_Salary": 53,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Spectrum Killian Dental Lab Alliance",
+    "Company Score": 3.3,
+    "Job Title": "Master's Level Research Intern - Neurology - Simpkins Lab (On-Site, Academic Credit)",
+    "Location": "Los Angeles, CA",
+    "Salary": "$15.00 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Oak View Group",
+    "Company Score": 3.9,
+    "Job Title": "Engineering Intern",
+    "Location": "West Hills, CA",
+    "Salary": "$42K - $65K (Glassdoor est.)",
+    "Converted_Salary": 42,
+    "In_GA": "No"
+  },
+  {
+    "Company": "World Wildlife Fund",
+    "Company Score": 3.3,
+    "Job Title": "Fall Intern - Crown Properties Collection",
+    "Location": "United States",
+    "Salary": "$20.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Dairy Management Inc.",
+    "Company Score": 3.9,
+    "Job Title": "IN-25002 Digital Streaming Engagement Intern",
+    "Location": "Washington, DC",
+    "Salary": "$44K - $66K (Glassdoor est.)",
+    "Converted_Salary": 44,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Upper Valley Nighthawks",
+    "Company Score": 4.2,
+    "Job Title": "PR & Digital Communications Intern, GENYOUth",
+    "Location": "Remote",
+    "Salary": "$55K - $78K (Glassdoor est.)",
+    "Converted_Salary": 55,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 3.9,
+    "Job Title": "Synergy Data Operator (2025)",
+    "Location": "Hartford, VT",
+    "Salary": "$15.00 - $17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Hewlett Packard",
+    "Company Score": 3.8,
+    "Job Title": "Strategic Operations Intern (GBS- Monetization Strategy and Operations)- 2025 Summer (MBA)",
+    "Location": "United States",
+    "Salary": "$44.00 - $57.00 Per Hour (Employer est.)",
+    "Converted_Salary": 44,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Think Academy US",
+    "Company Score": 3.7,
+    "Job Title": "HP Inc. Workforce Services & Solutions Team Business Management Internship",
+    "Location": "Spring, TX",
+    "Salary": "$23.13 - $47.48 Per Hour (Employer est.)",
+    "Converted_Salary": 23,
+    "In_GA": "No"
+  },
+  {
+    "Company": "New York Life Insurance Co",
+    "Company Score": 4.4,
+    "Job Title": "User Research Intern - Mandarin Required",
+    "Location": "Cupertino, CA",
+    "Salary": "$20.00 - $26.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "GLOBAL Healing Creative Arts Therapy Studio",
+    "Company Score": 3.3,
+    "Job Title": "2025 Asset Liability Management Summer Internship",
+    "Location": "United States",
+    "Salary": "$22.10 - $32.12 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Medtronic",
+    "Company Score": 4,
+    "Job Title": "College Internship",
+    "Location": "Riverdale, GA",
+    "Salary": "$50K - $150K (Employer est.)",
+    "Converted_Salary": 50,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Arkema",
+    "Company Score": 3.6,
+    "Job Title": "R&D Engineering Intern – Summer 2025 (Graduate)",
+    "Location": "Minneapolis, MN",
+    "Salary": "$16.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 3.2,
+    "Job Title": "R&D - Intern PEKK Job",
+    "Location": "Mobile, AL",
+    "Salary": "$37K - $61K (Glassdoor est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Campus Opportunities",
+    "Company Score": 3.8,
+    "Job Title": "Product Manager MBA Intern (TikTok Shop Seller Experience)- 2025 Summer (MBA)",
+    "Location": "Seattle, WA",
+    "Salary": "$34K (Employer est.)",
+    "Converted_Salary": 34,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mars",
+    "Company Score": 4.3,
+    "Job Title": "Advisory MC Intern Fall 2024",
+    "Location": "United States",
+    "Salary": "$37K - $54K (Glassdoor est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Toni Criner for Ward 7 State Board of Education",
+    "Company Score": 3.2,
+    "Job Title": "Summer 2025 Mars Pet Nutrition Manufacturing Internship – Leipsic, Ohio",
+    "Location": "",
+    "Salary": "$22.00 - $27.00 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "City of Lewisville, TX",
+    "Company Score": 4.6,
+    "Job Title": "Campaign Intern",
+    "Location": "Washington, DC",
+    "Salary": "$60K - $83K (Glassdoor est.)",
+    "Converted_Salary": 60,
+    "In_GA": "No"
+  },
+  {
+    "Company": "WSP",
+    "Company Score": 3.2,
+    "Job Title": "Intern - Sustainability",
+    "Location": "Lewisville, TX",
+    "Salary": "$21.00 - $36.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Lawrence Livermore National Laboratory",
+    "Company Score": 3.9,
+    "Job Title": "Environmental Engineering Intern - Fall 2024",
+    "Location": "Norcross, GA",
+    "Salary": "$24.62 - $30.00 Per Hour (Employer est.)",
+    "Converted_Salary": 24,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Aon Corporation",
+    "Company Score": 3,
+    "Job Title": "Materials Engineering Division Graduate Intern - Fall 2024",
+    "Location": "Livermore, CA",
+    "Salary": "$62K - $98K (Glassdoor est.)",
+    "Converted_Salary": 62,
+    "In_GA": "No"
+  },
+  {
+    "Company": "DR ELECTRIC",
+    "Company Score": 3.8,
+    "Job Title": "Early Careers: Actuarial Intern",
+    "Location": "Chicago, IL",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 4,
+    "Job Title": "Architect Intern",
+    "Location": "Philadelphia, PA",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Indiana University",
+    "Company Score": 3.4,
+    "Job Title": "Program Manager Intern, Product Operations (Signal Operations SMB)- 2025 Summer (BS/MS)",
+    "Location": "Austin, TX",
+    "Salary": "$1K (Employer est.)",
+    "Converted_Salary": "1K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Day & Zimmermann",
+    "Company Score": 4.5,
+    "Job Title": "Part-Time Student Bepko Intern - Research Analytics Internship",
+    "Location": "Bloomington, IN",
+    "Salary": "$17.50 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "LG&E and KU Services Company",
+    "Company Score": 4,
+    "Job Title": "Mechanical Intern",
+    "Location": "Huntsville, AL",
+    "Salary": "$17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Kansas Department of Labor",
+    "Company Score": 4.3,
+    "Job Title": "Engineer Intern",
+    "Location": "Lexington, KY",
+    "Salary": "$12.00 - $15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 12,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Nestlé Purina Pet Care",
+    "Company Score": 4.2,
+    "Job Title": "Intern: Web Design and Database",
+    "Location": "Topeka, KS",
+    "Salary": "$43K - $76K (Glassdoor est.)",
+    "Converted_Salary": 43,
+    "In_GA": "No"
+  },
+  {
+    "Company": "North American Electric Reliability Corporation",
+    "Company Score": 3.7,
+    "Job Title": "Manufacturing Excellence Intern",
+    "Location": "Flagstaff, AZ",
+    "Salary": "$44.00 - $57.00 Per Hour (Employer est.)",
+    "Converted_Salary": 44,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mars",
+    "Company Score": 3.3,
+    "Job Title": "Intern, Internal Audit and Advisory Services (IAAS)",
+    "Location": "Atlanta, GA",
+    "Salary": "$30.00 - $40.00 Per Hour (Employer est.)",
+    "Converted_Salary": 30,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Cart.com",
+    "Company Score": 3.4,
+    "Job Title": "Summer 2025 Mars Petcare Supply Chain Business Systems Internship - Franklin, TN",
+    "Location": "Franklin, TN",
+    "Salary": "$20.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "GE Aviation",
+    "Company Score": 4.2,
+    "Job Title": "Associate Brand/ Brand Manager- Amazon Marketplace",
+    "Location": "Texas",
+    "Salary": "$10.00 - $12.00 Per Hour (Employer est.)",
+    "Converted_Salary": 10,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Michigan State University",
+    "Company Score": 2.6,
+    "Job Title": "GE Aerospace US Digital Technology Intern - Summer 2025",
+    "Location": "Evendale, OH",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "City of Huntington Beach, CA",
+    "Company Score": 4.6,
+    "Job Title": "Professional Aide",
+    "Location": "East Lansing, MI",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "RippleMatch Opportunities",
+    "Company Score": 3.9,
+    "Job Title": "COLLEGE INTERN I-III/GRADUATE INTERN",
+    "Location": "Huntington Beach, CA",
+    "Salary": "$17.00 - $18.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Connect for Health Colorado",
+    "Company Score": 3.8,
+    "Job Title": "GSK - Summer Co-op/Process Modelling and Simulation, application via RippleMatch",
+    "Location": "Upper Providence Township",
+    "Salary": "$54K - $100K (Glassdoor est.)",
+    "Converted_Salary": 54,
+    "In_GA": "No"
+  },
+  {
+    "Company": "DiverseAllen Horizons, Inc.",
+    "Company Score": 4,
+    "Job Title": "Policy Intern",
+    "Location": "Denver, CO",
+    "Salary": "$9.00 - $12.00 Per Hour (Employer est.)",
+    "Converted_Salary": "9.",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Lucid Software",
+    "Company Score": 3.2,
+    "Job Title": "DFA IT Process Improvement Intern AY2024-25",
+    "Location": "Corvallis, OR",
+    "Salary": "$43K - $75K (Glassdoor est.)",
+    "Converted_Salary": 43,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Medtronic",
+    "Company Score": 3.7,
+    "Job Title": "Customer Operations Intern",
+    "Location": "Salt Lake City, UT",
+    "Salary": "$15.12 - $15.99 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Genworth",
+    "Company Score": 4.2,
+    "Job Title": "Operations Engineering Intern – Summer 2025 (Graduate)",
+    "Location": "Minneapolis, MN",
+    "Salary": "$19.50 - $24.00 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "1Oklahoma",
+    "Company Score": 3.7,
+    "Job Title": "IT Development Program Internship",
+    "Location": "Richmond, VA",
+    "Salary": "$42K - $56K (Glassdoor est.)",
+    "Converted_Salary": 42,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Love's Travel Stops & Country Stores",
+    "Company Score": 4,
+    "Job Title": "Merchandise Intern",
+    "Location": "Norman, OK",
+    "Salary": "$49K - $81K (Glassdoor est.)",
+    "Converted_Salary": 49,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Prudential",
+    "Company Score": 3.5,
+    "Job Title": "Merchandising Analytics Intern (Summer 2025)",
+    "Location": "Oklahoma City, OK",
+    "Salary": "$16.00 - $34.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Stantec",
+    "Company Score": 4.3,
+    "Job Title": "PGIM: 2025 Operations & Innovation, Innovation & Analytics Internship Program",
+    "Location": "Newark, NJ",
+    "Salary": "$18.40 - $30.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The Gerken Companies",
+    "Company Score": 4.2,
+    "Job Title": "Traffic Engineer Intern / Co-Op - Transportation (Fall 2024)",
+    "Location": "New York, NY",
+    "Salary": "$37K - $56K (Glassdoor est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "STASIS DRILLING SOLUTIONS",
+    "Company Score": 3.4,
+    "Job Title": "Quality Control Intern",
+    "Location": "Toledo, OH",
+    "Salary": "$20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Ervin Cable",
+    "Company Score": 3.7,
+    "Job Title": "Engineering Intern",
+    "Location": "Houston, TX",
+    "Salary": "$71K - $108K (Glassdoor est.)",
+    "Converted_Salary": 71,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Discover Financial Services",
+    "Company Score": 4,
+    "Job Title": "Intern",
+    "Location": "Sturgis, KY",
+    "Salary": "$57K - $98K (Glassdoor est.)",
+    "Converted_Salary": 57,
+    "In_GA": "No"
+  },
+  {
+    "Company": "EO of Energy and Env Affairs",
+    "Company Score": 4.5,
+    "Job Title": "Emerging Talent Digital Sourcing Lead",
+    "Location": "Chicago, IL",
+    "Salary": "$30.00 - $50.00 Per Hour (Employer est.)",
+    "Converted_Salary": 30,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Juno Tech Corp",
+    "Company Score": 4.1,
+    "Job Title": "Environmental Justice Intern",
+    "Location": "Boston, MA",
+    "Salary": "$38K - $55K (Glassdoor est.)",
+    "Converted_Salary": 38,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Radiant Digital",
+    "Company Score": 3.8,
+    "Job Title": "TikTok E-Commerce Account Operations Intern",
+    "Location": "New York, NY",
+    "Salary": "$18.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "State of Arizona",
+    "Company Score": 4.4,
+    "Job Title": "Research intern with public policy education",
+    "Location": "Vienna, VA",
+    "Salary": "$17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "ENGIE North America Inc.",
+    "Company Score": 3.6,
+    "Job Title": "Demand Analysis Intern",
+    "Location": "Phoenix, AZ",
+    "Salary": "$51K - $72K (Glassdoor est.)",
+    "Converted_Salary": 51,
+    "In_GA": "No"
+  },
+  {
+    "Company": "UTZ Brands, Inc",
+    "Company Score": 3.2,
+    "Job Title": "Intern, Customer Analytics & Strategy Engagement",
+    "Location": "Houston, TX",
+    "Salary": "$48K - $68K (Glassdoor est.)",
+    "Converted_Salary": 48,
+    "In_GA": "No"
+  },
+  {
+    "Company": "NJEDA",
+    "Company Score": 4,
+    "Job Title": "Supply Chain Internship: Part Time: Fall Semester",
+    "Location": "Hanover, PA",
+    "Salary": "$55K - $69K (Glassdoor est.)",
+    "Converted_Salary": 55,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Living Cities",
+    "Company Score": 4.2,
+    "Job Title": "Fall Film Intern",
+    "Location": "Newark, NJ",
+    "Salary": "$20.00 - $60.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Pact, Inc.",
+    "Company Score": 4.4,
+    "Job Title": "Fall 2024 Internship Program",
+    "Location": "York, WA",
+    "Salary": "$44.00 - $57.00 Per Hour (Employer est.)",
+    "Converted_Salary": 44,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Simon-Kucher & Partners",
+    "Company Score": 3.9,
+    "Job Title": "CSM-STAND Intern",
+    "Location": "Washington, DC",
+    "Salary": "$15.63 - $19.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "MacLean-Fogg",
+    "Company Score": 3.6,
+    "Job Title": "[UG/MS] Summer 2025 Intern/Associate Consultant - Healthcare & Life Sciences Division",
+    "Location": "Boston, NY",
+    "Salary": "$61K - $87K (Glassdoor est.)",
+    "Converted_Salary": 61,
+    "In_GA": "No"
+  },
+  {
+    "Company": "GE Vernova Strategy & Innovation",
+    "Company Score": 3.8,
+    "Job Title": "Digital Adoption Intern",
+    "Location": "Mundelein, IL",
+    "Salary": "$61K - $106K (Glassdoor est.)",
+    "Converted_Salary": 61,
+    "In_GA": "No"
+  },
+  {
+    "Company": "RippleMatch Opportunities",
+    "Company Score": 4.2,
+    "Job Title": "GE Vernova Advanced Research - 2025 Edison Program Internship",
+    "Location": "Niskayuna, NY",
+    "Salary": "$40K (Employer est.)",
+    "Converted_Salary": 40,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Terracon Consultants, Inc.",
+    "Company Score": 4,
+    "Job Title": "Vertex Pharmaceuticals - Vertex 2024 Fall Co-op, Technical Operations, application via RippleMatch",
+    "Location": "Boston, MA",
+    "Salary": "$38K - $65K (Glassdoor est.)",
+    "Converted_Salary": 38,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Eskenazi Health",
+    "Company Score": 3.3,
+    "Job Title": "Engineering Intern",
+    "Location": "Williamsburg, VA",
+    "Salary": "$18.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "MCA, Inc",
+    "Company Score": 4,
+    "Job Title": "FOOD & CONSUMER SAFETY INTERN",
+    "Location": "Indianapolis, IN",
+    "Salary": "$18.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Northrock Partners, LLC",
+    "Company Score": 3.8,
+    "Job Title": "Business Operations Analyst - Internship",
+    "Location": "Grand Blanc, MI",
+    "Salary": "$50K - $86K (Glassdoor est.)",
+    "Converted_Salary": 50,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Salas O'Brien",
+    "Company Score": 3.8,
+    "Job Title": "Intern, Operations (Fall 2024)",
+    "Location": "Minneapolis, MN",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TimkenSteel.",
+    "Company Score": 3.9,
+    "Job Title": "2024-2025 Fall Internship, Co-Op College Career Opportunities",
+    "Location": "United States",
+    "Salary": "$31.73 Per Hour (Employer est.)",
+    "Converted_Salary": 31,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Dolby",
+    "Company Score": 4.3,
+    "Job Title": "Supply Chain Planning Intern",
+    "Location": "Canton, OH",
+    "Salary": "$98K - $182K (Glassdoor est.)",
+    "Converted_Salary": 98,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Wells Fargo",
+    "Company Score": 4,
+    "Job Title": "Research Intern, AI Quality (Fall 24)",
+    "Location": "Sunnyvale, CA",
+    "Salary": "$118K - $145K (Employer est.)",
+    "Converted_Salary": 11,
+    "In_GA": "No"
+  },
+  {
+    "Company": "FloSports",
+    "Company Score": 3.4,
+    "Job Title": "2025 Summer Internship Quantitative Analytics Program (Master's) - Early Careers",
+    "Location": "Charlotte, NC",
+    "Salary": "$38K - $52K (Glassdoor est.)",
+    "Converted_Salary": 38,
+    "In_GA": "No"
+  },
+  {
+    "Company": "LGI Branding LLC",
+    "Company Score": 5,
+    "Job Title": "Fall Internship - Events Coordinator",
+    "Location": "Austin, TX",
+    "Salary": "$15.06 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "GID Investment Advisers LLC",
+    "Company Score": 4.7,
+    "Job Title": "Research Intern",
+    "Location": "Tulsa, OK",
+    "Salary": "$35K - $58K (Glassdoor est.)",
+    "Converted_Salary": 35,
+    "In_GA": "No"
+  },
+  {
+    "Company": "FC Dallas",
+    "Company Score": 2.8,
+    "Job Title": "Summer 2025 Real Estate Internship - Dallas, TX",
+    "Location": "Dallas, TX",
+    "Salary": "$55K - $89K (Glassdoor est.)",
+    "Converted_Salary": 55,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Community Counseling Centers Of Chicago",
+    "Company Score": 3.5,
+    "Job Title": "Scouting Intern 2024 Season",
+    "Location": "Frisco, TX",
+    "Salary": "$37K - $55K (Glassdoor est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Infrastructure Consulting & Engineering",
+    "Company Score": 4.3,
+    "Job Title": "Development Intern",
+    "Location": "Chicago, IL",
+    "Salary": "$19.25 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Boston Public Health Commission",
+    "Company Score": 3.2,
+    "Job Title": "Roadway Engineer Intern",
+    "Location": "Norcross, GA",
+    "Salary": "$83K - $117K (Glassdoor est.)",
+    "Converted_Salary": 83,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "ZF",
+    "Company Score": 4,
+    "Job Title": "Learning and Evaluation Implementation Internship",
+    "Location": "Boston, MA",
+    "Salary": "$49K - $79K (Glassdoor est.)",
+    "Converted_Salary": 49,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Rapsodo",
+    "Company Score": 3.8,
+    "Job Title": "Maintenance Intern",
+    "Location": "Marysville, MI",
+    "Salary": "$16.00 - $46.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Playfly Sports",
+    "Company Score": 4.2,
+    "Job Title": "Customer Experience Intern, Diamond Sports",
+    "Location": "Saint Louis, MO",
+    "Salary": "$16.28 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Perfetti Van Melle",
+    "Company Score": 3.7,
+    "Job Title": "Gameday/ Property Intern (UCF Sports Property)",
+    "Location": "Florida",
+    "Salary": "$60K (Employer est.)",
+    "Converted_Salary": 60,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Walmart",
+    "Company Score": 3.5,
+    "Job Title": "Research and Development Process Intern",
+    "Location": "Erlanger, KY",
+    "Salary": "$19.00 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 19,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Princeton University",
+    "Company Score": 5,
+    "Job Title": "2025 Summer Undergraduate Intern: Walmart Merchandising",
+    "Location": "Bentonville, AR",
+    "Salary": "$54K - $86K (Glassdoor est.)",
+    "Converted_Salary": 54,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Worthington Enterprises",
+    "Company Score": 2.9,
+    "Job Title": "Next Generation Internship Coordinator - Temporary",
+    "Location": "Princeton, NJ",
+    "Salary": "$30.00 - $50.00 Per Hour (Employer est.)",
+    "Converted_Salary": 30,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Alameda County Water District",
+    "Company Score": 3.1,
+    "Job Title": "Internal Audit Intern",
+    "Location": "Columbus, OH",
+    "Salary": "$62K - $88K (Glassdoor est.)",
+    "Converted_Salary": 62,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Schneider Electric",
+    "Company Score": 3.8,
+    "Job Title": "Water Production Intern",
+    "Location": "Fremont, CA",
+    "Salary": "$37K - $81K (Employer est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "STERIS",
+    "Company Score": 3.8,
+    "Job Title": "Logistics Engineer CO-OP (Spring 2025)",
+    "Location": "Mechanicsburg, PA",
+    "Salary": "$94K - $155K (Glassdoor est.)",
+    "Converted_Salary": 94,
+    "In_GA": "No"
+  },
+  {
+    "Company": "TikTok",
+    "Company Score": 4.1,
+    "Job Title": "Health, Safety, and Environmental Intern",
+    "Location": "Mentor, OH",
+    "Salary": "$50K - $76K (Glassdoor est.)",
+    "Converted_Salary": 50,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Meher Trailer Products PTY LTD",
+    "Company Score": 2.7,
+    "Job Title": "QA Engineer Intern (TikTok Growth) - 2025 Summer (BS/MS)",
+    "Location": "San Jose, CA",
+    "Salary": "$37K - $58K (Glassdoor est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Amkor Technology, Inc.",
+    "Company Score": 3.9,
+    "Job Title": "Finance ERP Intern",
+    "Location": "Rolling Meadows, IL",
+    "Salary": "$53K - $73K (Glassdoor est.)",
+    "Converted_Salary": 53,
+    "In_GA": "No"
+  },
+  {
+    "Company": "RippleMatch Opportunities",
+    "Company Score": 3.7,
+    "Job Title": "Intern, Product Engineer",
+    "Location": "Tempe, AZ",
+    "Salary": "$17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "AltCap",
+    "Company Score": 3.9,
+    "Job Title": "GSK - Fall Co-op / CIVM-Biology, application via RippleMatch",
+    "Location": "Providence, Delaware, PA",
+    "Salary": "$20.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "CTL Aerospace, Inc.",
+    "Company Score": 3.7,
+    "Job Title": "Communications Team Intern",
+    "Location": "Kansas City, MO",
+    "Salary": "$17.00 - $30.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Black Hills Federal Credit Union",
+    "Company Score": 3.6,
+    "Job Title": "Quality Control Engineering Intern",
+    "Location": "Cincinnati, OH",
+    "Salary": "$55.00 Per Hour (Employer est.)",
+    "Converted_Salary": 55,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Bank of America",
+    "Company Score": 3.2,
+    "Job Title": "College Marketing Intern",
+    "Location": "Rapid City, SD",
+    "Salary": "$36K - $62K (Glassdoor est.)",
+    "Converted_Salary": 36,
+    "In_GA": "No"
+  },
+  {
+    "Company": "InnoPhase IoT",
+    "Company Score": 4.1,
+    "Job Title": "Strategy & Management Summer Associate Program - 2025",
+    "Location": "Boston, MA",
+    "Salary": "$17.50 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Regis College",
+    "Company Score": 4,
+    "Job Title": "Product Test Engineer – Summer Internship",
+    "Location": "San Diego, CA",
+    "Salary": "$87K - $140K (Glassdoor est.)",
+    "Converted_Salary": 87,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Global Refuge",
+    "Company Score": 3.6,
+    "Job Title": "Graduate Intern for LGBTQ+ Initiatives",
+    "Location": "Weston, MA",
+    "Salary": "$21.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Bank of China",
+    "Company Score": 4,
+    "Job Title": "Children and Family Services Macro Intern",
+    "Location": "Detroit, MI",
+    "Salary": "$16.98 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "KeyBank",
+    "Company Score": 3.2,
+    "Job Title": "CRM Credit Analyst I Intern",
+    "Location": "United States",
+    "Salary": "$20.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "RippleMatch Opportunities",
+    "Company Score": 3.5,
+    "Job Title": "2025 Summer Risk Management Internship Program - Cleveland",
+    "Location": "Cleveland, OH",
+    "Salary": "$44K - $57K (Glassdoor est.)",
+    "Converted_Salary": 44,
+    "In_GA": "No"
+  },
+  {
+    "Company": "BlueScope Coated Products",
+    "Company Score": 3.5,
+    "Job Title": "Apex Fintech Solutions - Procurement Analytics Intern, application via RippleMatch",
+    "Location": "Chicago, IL",
+    "Salary": "$23.00 Per Hour (Employer est.)",
+    "Converted_Salary": 23,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Alan B. Lancz and Associates, Inc.",
+    "Company Score": 4.1,
+    "Job Title": "Engineer Intern",
+    "Location": "Marietta, GA",
+    "Salary": "$59K (Employer est.)",
+    "Converted_Salary": 59,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Eutelsat",
+    "Company Score": 4.2,
+    "Job Title": "Financial Internships",
+    "Location": "Toledo, OH",
+    "Salary": "$12.00 - $14.00 Per Hour (Employer est.)",
+    "Converted_Salary": 12,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Four Roses Distillery LLC",
+    "Company Score": 4.1,
+    "Job Title": "Career Opportunities: Monitoring Engineer (internship) (5267)",
+    "Location": "Idaho",
+    "Salary": "$42K - $76K (Glassdoor est.)",
+    "Converted_Salary": 42,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The City of Fort Worth",
+    "Company Score": 4,
+    "Job Title": "Quality Engineer Intern - Cox's Creek",
+    "Location": "Coxs Creek, KY",
+    "Salary": "$38K - $64K (Glassdoor est.)",
+    "Converted_Salary": 38,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Trinity Global Institute",
+    "Company Score": 2.8,
+    "Job Title": "Intern - Budget Fellowship",
+    "Location": "Fort Worth, TX",
+    "Salary": "$17.89 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Michigan State Athletics",
+    "Company Score": 3.7,
+    "Job Title": "Paid Marketing Intern",
+    "Location": "Orlando, FL",
+    "Salary": "$103K - $184K (Glassdoor est.)",
+    "Converted_Salary": 10,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Schneider Electric",
+    "Company Score": 3.3,
+    "Job Title": "Student Engagement Post-Grad Internship – Marketing and Fan Engagement",
+    "Location": "East Lansing, MI",
+    "Salary": "$31K - $42K (Glassdoor est.)",
+    "Converted_Salary": 31,
+    "In_GA": "No"
+  },
+  {
+    "Company": "AFM - American Flowform and Machining",
+    "Company Score": 4.1,
+    "Job Title": "Manufacturing Engineering Internship: Fall 2024",
+    "Location": "Lexington, KY",
+    "Salary": "$60K - $94K (Glassdoor est.)",
+    "Converted_Salary": 60,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Smith System Manufacturing",
+    "Company Score": 3.6,
+    "Job Title": "Internship - Supply Chain",
+    "Location": "Billerica, MA",
+    "Salary": "$25.00 - $30.00 Per Hour (Employer est.)",
+    "Converted_Salary": 25,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Dolby",
+    "Company Score": 3.8,
+    "Job Title": "Manufacturing Engineering Intern",
+    "Location": "United States",
+    "Salary": "$17.20 - $19.20 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "pSemi",
+    "Company Score": 2.9,
+    "Job Title": "PhD Multimodal AI Intern",
+    "Location": "San Francisco, CA",
+    "Salary": "$5K - $6K (Employer est.)",
+    "Converted_Salary": "5K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Dexter Axle",
+    "Company Score": 3.3,
+    "Job Title": "Intern, Characterization Process Technology - Summer 2024",
+    "Location": "United States",
+    "Salary": "$28.85 Per Hour (Employer est.)",
+    "Converted_Salary": 28,
+    "In_GA": "No"
+  },
+  {
+    "Company": "BCC Engineering",
+    "Company Score": 3.9,
+    "Job Title": "Finance Internship",
+    "Location": "",
+    "Salary": "$17.20 - $19.20 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Albany International Corp.",
+    "Company Score": 4,
+    "Job Title": "Roadway Intern",
+    "Location": "Miami, FL",
+    "Salary": "$89K - $129K (Glassdoor est.)",
+    "Converted_Salary": 89,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Lawrence Livermore National Laboratory",
+    "Company Score": 3.8,
+    "Job Title": "Product Development Intern - R&D",
+    "Location": "Saint Stephen, SC",
+    "Salary": "$32K - $50K (Glassdoor est.)",
+    "Converted_Salary": 32,
+    "In_GA": "No"
+  },
+  {
+    "Company": "First Horizon Group",
+    "Company Score": 3.9,
+    "Job Title": "Materials Engineering Division Undergraduate Intern - Fall 2024",
+    "Location": "Livermore, CA",
+    "Salary": "$16.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Recovery Resources",
+    "Company Score": 1,
+    "Job Title": "Sales Representative",
+    "Location": "Seattle, WA",
+    "Salary": "$18.00 - $28.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Babcock & Wilcox",
+    "Company Score": 4,
+    "Job Title": "Prevention Specialist Intern",
+    "Location": "Cleveland, OH",
+    "Salary": "$28.85 Per Hour (Employer est.)",
+    "Converted_Salary": 28,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Paytique Financial",
+    "Company Score": 3.6,
+    "Job Title": "Generative AI Imaging Creation Intern",
+    "Location": "Akron, OH",
+    "Salary": "$43K - $63K (Glassdoor est.)",
+    "Converted_Salary": 43,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Digital Plus Solutions",
+    "Company Score": 3.7,
+    "Job Title": "Marketing and Business Development Intern",
+    "Location": "Brooklyn, NY",
+    "Salary": "$59K - $93K (Glassdoor est.)",
+    "Converted_Salary": 59,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Schneider Electric",
+    "Company Score": 4.1,
+    "Job Title": "Digital Marketing Intern",
+    "Location": "Kansas City, MO",
+    "Salary": "$49K - $80K (Glassdoor est.)",
+    "Converted_Salary": 49,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Worthington Steel",
+    "Company Score": 3.5,
+    "Job Title": "Safety, Health & Environment Intern: Fall 2024",
+    "Location": "Chino, CA",
+    "Salary": "$20.94 - $26.65 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "GE Vernova Leadership Programs",
+    "Company Score": 4,
+    "Job Title": "Electrical Controls Engineer Intern - TWB Monroe",
+    "Location": "Monroe, MI",
+    "Salary": "$59K - $92K (Glassdoor est.)",
+    "Converted_Salary": 59,
+    "In_GA": "No"
+  },
+  {
+    "Company": "EMD Electronics",
+    "Company Score": 4,
+    "Job Title": "GE Vernova Digital Technology Internship - Summer 2025",
+    "Location": "Schenectady, NY",
+    "Salary": "$18.00 - $20.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Continental",
+    "Company Score": 4,
+    "Job Title": "Regulatory Safety Co-op",
+    "Location": "Branchburg, NJ",
+    "Salary": "$53K - $95K (Glassdoor est.)",
+    "Converted_Salary": 53,
+    "In_GA": "No"
+  },
+  {
+    "Company": "University of Florida",
+    "Company Score": 4.3,
+    "Job Title": "Intern - Logistics Analyst, Year-Round",
+    "Location": "Fort Mill, SC",
+    "Salary": "$21.00 - $29.50 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "GE Aviation",
+    "Company Score": 3.6,
+    "Job Title": "Smathers Undergraduate Internship in Collections",
+    "Location": "Gainesville, FL",
+    "Salary": "$18.00 - $25.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Western & Southern Financial Group",
+    "Company Score": 3.5,
+    "Job Title": "GE Aerospace Engineering Engines Computer or Software Engineering Intern - Fall 2025",
+    "Location": "Evendale, OH",
+    "Salary": "$18.00 - $22.00 Per Hour (Employer est.)",
+    "Converted_Salary": 18,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Occams Group",
+    "Company Score": 3.9,
+    "Job Title": "College Intern - Actuary",
+    "Location": "Cincinnati, OH",
+    "Salary": "$17.20 - $19.20 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Nashville Soccer Club",
+    "Company Score": 3.4,
+    "Job Title": "Entry Level, Paid Internship: Recruitment, Commercial Accounts",
+    "Location": "Columbia, MD",
+    "Salary": "$84K - $124K (Glassdoor est.)",
+    "Converted_Salary": 84,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Tetra Tech",
+    "Company Score": 3.4,
+    "Job Title": "Sports Science Intern (Fall 2024)- College Credit Only",
+    "Location": "Nashville, TN",
+    "Salary": "$52K (Employer est.)",
+    "Converted_Salary": 52,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Landis Gyr",
+    "Company Score": 4,
+    "Job Title": "Financial Management Team Intern",
+    "Location": "Arlington, VA",
+    "Salary": "$100K - $125K (Employer est.)",
+    "Converted_Salary": 10,
+    "In_GA": "No"
+  },
+  {
+    "Company": "University of Massachusetts Office of the President",
+    "Company Score": 3.9,
+    "Job Title": "Product Internship - E-Mobility",
+    "Location": "Alpharetta, GA",
+    "Salary": "$55K - $75K (Glassdoor est.)",
+    "Converted_Salary": 55,
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Kimley-Horn",
+    "Company Score": 3.1,
+    "Job Title": "Intern – Institutional Research",
+    "Location": "Boston, MA",
+    "Salary": "$12.00 - $15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 12,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Camellia Collective Company",
+    "Company Score": 3.8,
+    "Job Title": "D&I Intern",
+    "Location": "",
+    "Salary": "$61K - $108K (Glassdoor est.)",
+    "Converted_Salary": 61,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Dolby",
+    "Company Score": 3.8,
+    "Job Title": "Summer 2025 Mars Petcare Supply Chain Transportation Operations Center Internship - Franklin, TN",
+    "Location": "Franklin, TN",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Stand Together",
+    "Company Score": 3.2,
+    "Job Title": "Multimodal Perception Science Intern (Fall 24)",
+    "Location": "San Francisco, CA",
+    "Salary": "$31.40 Per Hour (Employer est.)",
+    "Converted_Salary": 31,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Advent Prestige Care",
+    "Company Score": 3.4,
+    "Job Title": "KIP Fall 2024 - Intern - The Cato Institute",
+    "Location": "Arlington, VA",
+    "Salary": "$20.00 - $21.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "PowerMarket",
+    "Company Score": 3.7,
+    "Job Title": "Mental Health Therapist",
+    "Location": "Fort Pierce, FL",
+    "Salary": "$54K - $85K (Glassdoor est.)",
+    "Converted_Salary": 54,
+    "In_GA": "No"
+  },
+  {
+    "Company": "RELQ TECHNOLOGIES LLC",
+    "Company Score": 3.8,
+    "Job Title": "Community Solar Operations Intern",
+    "Location": "New York, NY",
+    "Salary": "$16.00 - $46.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "IDEA Public Schools",
+    "Company Score": 3.7,
+    "Job Title": "Data Architect",
+    "Location": "Florida",
+    "Salary": "$4K - $6K (Employer est.)",
+    "Converted_Salary": "4K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "BlocPower",
+    "Company Score": 3.9,
+    "Job Title": "Intern - Technology Operations (Immediate Opening)",
+    "Location": "Weslaco, TX",
+    "Salary": "$15.00 Per Hour (Employer est.)",
+    "Converted_Salary": 15,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Weber State University",
+    "Company Score": 4,
+    "Job Title": "Clean Energy Intern",
+    "Location": "Ithaca, NY",
+    "Salary": "$17.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mayor's Office of Contract Services",
+    "Company Score": 4.2,
+    "Job Title": "MARS Intern",
+    "Location": "Ogden, UT",
+    "Salary": "$21.00 - $28.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Casey Peterson",
+    "Company Score": 3.2,
+    "Job Title": "Service Desk Operations Intern",
+    "Location": "United States",
+    "Salary": "$21.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Continental",
+    "Company Score": 4.4,
+    "Job Title": "INTERNS",
+    "Location": "United States",
+    "Salary": "$35K - $45K (Employer est.)",
+    "Converted_Salary": 35,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Alabama State University & ALDOT",
+    "Company Score": 3.5,
+    "Job Title": "Intern - eCommerce",
+    "Location": "Fairlawn, OH",
+    "Salary": "$56K - $83K (Glassdoor est.)",
+    "Converted_Salary": 56,
+    "In_GA": "No"
+  },
+  {
+    "Company": "New York City Housing Development Corporation",
+    "Company Score": 3.3,
+    "Job Title": "Paid Internship (IT)",
+    "Location": "Montgomery, AL",
+    "Salary": "$56K - $81K (Glassdoor est.)",
+    "Converted_Salary": 56,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Westminster University",
+    "Company Score": 2.9,
+    "Job Title": "Strategic Operations Intern",
+    "Location": "United States",
+    "Salary": "$50K - $60K (Employer est.)",
+    "Converted_Salary": 50,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Graphic Packaging International, Inc.",
+    "Company Score": 3.5,
+    "Job Title": "GSLI Internship- Brine Fly Monitoring",
+    "Location": "Salt Lake City, UT",
+    "Salary": "$93K - $135K (Glassdoor est.)",
+    "Converted_Salary": 93,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cincy Grind",
+    "Company Score": 3.3,
+    "Job Title": "Engineering Intern IV",
+    "Location": "West Monroe, LA",
+    "Salary": "$78K - $116K (Glassdoor est.)",
+    "Converted_Salary": 78,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Charlotte County Board of County Commissioners",
+    "Company Score": 3.5,
+    "Job Title": "Management Trainee",
+    "Location": "Cincinnati, OH",
+    "Salary": "$37K - $58K (Glassdoor est.)",
+    "Converted_Salary": 37,
+    "In_GA": "No"
+  },
+  {
+    "Company": "The MITRE Corporation",
+    "Company Score": 4.1,
+    "Job Title": "INTERNSHIPS-Charlotte County Engineering",
+    "Location": "Punta Gorda, FL",
+    "Salary": "$2K (Employer est.)",
+    "Converted_Salary": "2K",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Community Resource Center",
+    "Company Score": 4.1,
+    "Job Title": "Systems, Mechanical, or Aerospace Internships",
+    "Location": "Bedford, MA",
+    "Salary": "$64K - $112K (Glassdoor est.)",
+    "Converted_Salary": 64,
+    "In_GA": "No"
+  },
+  {
+    "Company": "La Encantada Diversity Equity & Inclusion",
+    "Company Score": 3.5,
+    "Job Title": "Nonprofit Grant Research & Development Internship (August",
+    "Location": "Denver, CO",
+    "Salary": "$12.00 Per Hour (Employer est.)",
+    "Converted_Salary": 12,
+    "In_GA": "No"
+  },
+  {
+    "Company": "SRG Global",
+    "Company Score": 4.7,
+    "Job Title": "Diversity, Equity, and Inclusion (DEI) / Employee Engagement Intern",
+    "Location": "McAllen, TX",
+    "Salary": "$75K - $92K (Employer est.)",
+    "Converted_Salary": 75,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Libbey",
+    "Company Score": 2.9,
+    "Job Title": "SRG Global Supply Chain Co-Op",
+    "Location": "Newbern, TN",
+    "Salary": "$58K - $94K (Glassdoor est.)",
+    "Converted_Salary": 58,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Navy Federal Credit Union",
+    "Company Score": 3.3,
+    "Job Title": "Marketing Internship (Fall 2024)",
+    "Location": "Toledo, OH",
+    "Salary": "$16.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "City of Greeley",
+    "Company Score": 3.6,
+    "Job Title": "Intern - Year Round (Lending Strategy and Operations)",
+    "Location": "Pensacola, FL",
+    "Salary": "$14.00 - $27.00 Per Hour (Employer est.)",
+    "Converted_Salary": 14,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Voith Group",
+    "Company Score": 3.3,
+    "Job Title": "Source Water Quality Intern II/III",
+    "Location": "Greeley, CO",
+    "Salary": "$22.68 - $26.56 Per Hour (Employer est.)",
+    "Converted_Salary": 22,
+    "In_GA": "No"
+  },
+  {
+    "Company": "KeyBank",
+    "Company Score": 3,
+    "Job Title": "HRIS Intern",
+    "Location": "York, PA",
+    "Salary": "$62K - $110K (Glassdoor est.)",
+    "Converted_Salary": 62,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Bank of America",
+    "Company Score": 4.1,
+    "Job Title": "2025 Summer Marketing Internship Program - Cleveland",
+    "Location": "Brooklyn, OH",
+    "Salary": "$85K - $92K (Employer est.)",
+    "Converted_Salary": 85,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Natural Resources Defense Council, Inc.",
+    "Company Score": 4.2,
+    "Job Title": "Enterprise Credit Summer Analyst Program 2025 - Consumer Credit",
+    "Location": "Phoenix, AZ",
+    "Salary": "$21.00 Per Hour (Employer est.)",
+    "Converted_Salary": 21,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Whimsy Stick",
+    "Company Score": 4,
+    "Job Title": "Fall E2 Diversity in Clean Energy Intern",
+    "Location": "Washington, DC",
+    "Salary": "$70K - $75K (Employer est.)",
+    "Converted_Salary": 70,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Levy",
+    "Company Score": 3.6,
+    "Job Title": "Marketing Expert - Facebook Ads Management",
+    "Location": "Manor, TX",
+    "Salary": "$54K - $86K (Glassdoor est.)",
+    "Converted_Salary": 54,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Align Social Impact",
+    "Company Score": 4.2,
+    "Job Title": "E-15 Internship- Indiana University",
+    "Location": "Bloomington, IN",
+    "Salary": "$20.00 - $21.00 Per Hour (Employer est.)",
+    "Converted_Salary": 20,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Bank of China",
+    "Company Score": 3.9,
+    "Job Title": "Research & Partnerships Fellow",
+    "Location": "United States",
+    "Salary": "$45K - $89K (Employer est.)",
+    "Converted_Salary": 45,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Geosyntec Consultants, Inc.",
+    "Company Score": 3.9,
+    "Job Title": "Internal Audit Department Advanced Analytics for Audit Intern",
+    "Location": "United States",
+    "Salary": "$17.00 - $24.00 Per Hour (Employer est.)",
+    "Converted_Salary": 17,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Columbus Zoo Family of Parks",
+    "Company Score": 3.5,
+    "Job Title": "Intern / Co-Op Environmental Science/Engineering",
+    "Location": "Worthington, OH",
+    "Salary": "$52K - $77K (Glassdoor est.)",
+    "Converted_Salary": 52,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Berkley",
+    "Company Score": 4,
+    "Job Title": "Ecology Apprenticeship at The Wilds",
+    "Location": "Cumberland, OH",
+    "Salary": "$16.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Johnson Controls International",
+    "Company Score": 4.3,
+    "Job Title": "Communications Coordinator",
+    "Location": "Manassas, VA",
+    "Salary": "$23.00 Per Hour (Employer est.)",
+    "Converted_Salary": 23,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Greenwich Commodities LLC",
+    "Company Score": 4.2,
+    "Job Title": "Continuous Improvement Analyst Intern",
+    "Location": "Baltimore, MD",
+    "Salary": "$16.00 Per Hour (Employer est.)",
+    "Converted_Salary": 16,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Dolby",
+    "Company Score": 4.7,
+    "Job Title": "Power Trading Analyst",
+    "Location": "Denver, CO",
+    "Salary": "$39.22 - $42.86 Per Hour (Employer est.)",
+    "Converted_Salary": 39,
+    "In_GA": "No"
+  },
+  {
+    "Company": "Sul Ross State University",
+    "Company Score": 3.5,
+    "Job Title": "PhD Image Capture Intern",
+    "Location": "Sunnyvale, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Tower Semiconductor",
+    "Company Score": 4.1,
+    "Job Title": "Dev Team Intern, Title III Internship Program",
+    "Location": "Alpine, TX",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Avfuel Corporation",
+    "Company Score": 3.6,
+    "Job Title": "Yield Engineer Intern",
+    "Location": "Newport Beach, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "inStorify",
+    "Company Score": 2.8,
+    "Job Title": "Tax Internship",
+    "Location": "Ann Arbor, MI",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "BCC Engineering",
+    "Company Score": 4.3,
+    "Job Title": "[Fall internship Program - VC Backed Startup] Marketing & Business Development",
+    "Location": "New York, NY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "University of Utah Health",
+    "Company Score": 3.7,
+    "Job Title": "CEI Intern",
+    "Location": "Cumming, GA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Association of Public Health Laboratories",
+    "Company Score": 4,
+    "Job Title": "Energy Accelerator Student Intern",
+    "Location": "Salt Lake City, UT",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Los Alamos National Laboratory",
+    "Company Score": 3.8,
+    "Job Title": "Intern, Infectious Diseases",
+    "Location": "Bethesda, MD",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "OFI",
+    "Company Score": 4.7,
+    "Job Title": "Graduate Student ST 1",
+    "Location": "Los Alamos, NM",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "InterWorks",
+    "Company Score": 4,
+    "Job Title": "Engineering Intern",
+    "Location": "Boardman, OR",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Atlantis IT group",
+    "Company Score": 3.2,
+    "Job Title": "Employee Experience Intern",
+    "Location": "Stillwater, OK",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "General Mills",
+    "Company Score": 3.7,
+    "Job Title": "RBI/Inspection SME",
+    "Location": "Oklahoma",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Thrivent",
+    "Company Score": 4.1,
+    "Job Title": "Internship - Research & Development Food Scientist",
+    "Location": "Golden Valley, MN",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "PRICE WATERHOUSE COOPERS",
+    "Company Score": 2.6,
+    "Job Title": "Actuarial Intern - Summer 2025",
+    "Location": "Minneapolis, MN",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Loon",
+    "Company Score": 4.2,
+    "Job Title": "Tax Financial Markets & Real Estate (FMRE) Intern - Winter 2025",
+    "Location": "Miami, FL",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "John A. Knutson & Co.",
+    "Company Score": 3.2,
+    "Job Title": "PhD Residency - ML / SWE, Early Moonshots",
+    "Location": "Mountain View, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "City of Deerfield Beach",
+    "Company Score": 3.9,
+    "Job Title": "2025 Winter 1040 Internship",
+    "Location": "Falcon Heights, Ramsey, MN",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Marriott Vacations Worldwide",
+    "Company Score": 3.6,
+    "Job Title": "Intern-Community Services",
+    "Location": "Deerfield Beach, FL",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "NBCUniversal",
+    "Company Score": 3.2,
+    "Job Title": "New Owner Administration Internship (Power BI) - Orlando, FL",
+    "Location": "Lakeland, FL",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Anders CPAs + Advisors",
+    "Company Score": 3.5,
+    "Job Title": "NBC Boston Digital News Intern - Fall 2024",
+    "Location": "Needham, MA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "City of Virginia Beach",
+    "Company Score": 5,
+    "Job Title": "State and Local Tax Intern - Fall 2024",
+    "Location": "Saint Louis, MO",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Frankel",
+    "Company Score": 3.6,
+    "Job Title": "City of Virginia Beach SkillBridge",
+    "Location": "Virginia Beach, VA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Port City Executives",
+    "Company Score": 3.1,
+    "Job Title": "Client Services Internship - 2024",
+    "Location": "Omaha, NE",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cummins Inc.",
+    "Company Score": 2.9,
+    "Job Title": "Account Representative Entry Level",
+    "Location": "Grand Rapids, MI",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Corcentric",
+    "Company Score": 4.3,
+    "Job Title": "School to Work - ePowertrain Controls",
+    "Location": "Troy, MI",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "BCT LLC",
+    "Company Score": 4,
+    "Job Title": "Intern, Business Process Analyst, Managed Services",
+    "Location": "Cherry Hill, NJ",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Volvo Group",
+    "Company Score": 3.9,
+    "Job Title": "Data Management Specialist (DMS) 2 (SRN)",
+    "Location": "Fort Meade, MD",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "State of Nebraska",
+    "Company Score": 4.1,
+    "Job Title": "Co-Op: Manufacturing Engineering (Spring 2025)",
+    "Location": "Hagerstown, MD",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Emkat inc",
+    "Company Score": 4.1,
+    "Job Title": "SOS Audit Intern",
+    "Location": "Lincoln, NE",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "The Ohio State University",
+    "Company Score": 3.4,
+    "Job Title": "Administrator",
+    "Location": "North Chelmsford, MA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Orange County Transportation Authority",
+    "Company Score": 3.8,
+    "Job Title": "Network Operations Center (NOC) Student Intern",
+    "Location": "",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "The Laney Consulting Agency",
+    "Company Score": 3.6,
+    "Job Title": "College Intern - Transit Technical Services",
+    "Location": "Santa Ana, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "EQUITAS Life Sciences",
+    "Company Score": 1,
+    "Job Title": "Digital Marketing Internship",
+    "Location": "Culver City, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Perfetti Van Melle",
+    "Company Score": 3.3,
+    "Job Title": "Life Sciences Consulting Internship",
+    "Location": "Essex Junction, VT",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Whimsy Stick",
+    "Company Score": 4.1,
+    "Job Title": "Packaging Engineer Intern/Co-op",
+    "Location": "Erlanger, KY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "AbbVie",
+    "Company Score": 3.7,
+    "Job Title": "Landing Page Designer/Developer",
+    "Location": "Manor, TX",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "US Federal Highway Administration",
+    "Company Score": 3.1,
+    "Job Title": "2025 Finance Externship",
+    "Location": "North Chicago, IL",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Western Digital",
+    "Company Score": 3.7,
+    "Job Title": "PATHWAYS STUDENT INTERN (Transportation Specialist)",
+    "Location": "Honolulu, HI",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Iron Mountain",
+    "Company Score": 4.4,
+    "Job Title": "Media Tribology Ph.D. Internship",
+    "Location": "San Jose, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "University of Massachusetts Medical School",
+    "Company Score": 3.7,
+    "Job Title": "Data Center Internship Role",
+    "Location": "Phoenix, AZ",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Yusen Logistics",
+    "Company Score": 5,
+    "Job Title": "Applied Public Policy Scholarly Project Graduate Intern (hybrid - Quincy, MA)",
+    "Location": "Shrewsbury, MA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Chartwells Higher Education",
+    "Company Score": 4.3,
+    "Job Title": "Financial Analyst Intern",
+    "Location": "Secaucus, NJ",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "NBCUniversal",
+    "Company Score": 4.4,
+    "Job Title": "Digital Marketing Intern, Chartwells Higher Ed + Boost / Worcester State University",
+    "Location": "Worcester, MA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cipla",
+    "Company Score": 4,
+    "Job Title": "Universal Destinations & Experiences Fall 2024 Internship - Business Analytics & Industrial Engineering - Halloween Horror Nights",
+    "Location": "Universal City, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Panicle INC",
+    "Company Score": 4,
+    "Job Title": "Pilot Plant Documentation Intern",
+    "Location": "Fall River, MA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "CVS Health",
+    "Company Score": 3.4,
+    "Job Title": "Newark Creative Marketing and Copywriting Intern",
+    "Location": "Newark, NJ",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Fenstermaker",
+    "Company Score": 3.7,
+    "Job Title": "Pharmacy Growth and Innovation Corporate Intern (Graduate) – Summer 2025",
+    "Location": "Woonsocket, RI",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "NBCUniversal",
+    "Company Score": 3.9,
+    "Job Title": "Civil Engineer Intern",
+    "Location": "Lafayette, LA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Continental",
+    "Company Score": "",
+    "Job Title": "NBC4/T44 Digital Internship – Academic Year 2024-25",
+    "Location": "Washington, DC",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Precision Castparts Corp.",
+    "Company Score": "",
+    "Job Title": "Intern - Strategic Pricing & Market Intelligence",
+    "Location": "Fort Mill, SC",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "State of Maryland",
+    "Company Score": "",
+    "Job Title": "Co-Op Quality Internship",
+    "Location": "Irvine, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Universal Studios Hollywood",
+    "Company Score": "",
+    "Job Title": "Coastal Risk Communication Intern (Chesapeake and Coastal Watershed - Summer Student Intern)",
+    "Location": "Annapolis, MD",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Henry Ford Health",
+    "Company Score": "",
+    "Job Title": "Universal Destinations & Experiences Fall 2024 Internship - Business Analytics & Industrial Engineering - Halloween Horror Nights",
+    "Location": "Universal City, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "KeyBank",
+    "Company Score": "",
+    "Job Title": "Social Worker Intern LLMSW",
+    "Location": "Jackson, MI",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "SUNY Oneonta",
+    "Company Score": "",
+    "Job Title": "2025 Summer CX+EX (Measurement and Insights Track) Internship - Cleveland",
+    "Location": "Brooklyn, OH",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cummins Inc.",
+    "Company Score": "",
+    "Job Title": "Assistant Director of Alumni Engagement - SUNY Oneonta",
+    "Location": "Oneonta, NY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "University of Utah Health",
+    "Company Score": "",
+    "Job Title": "School To Work, Advanced Engineering",
+    "Location": "Troy, MI",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Circle K",
+    "Company Score": "",
+    "Job Title": "Financial Peer Mentor Internship",
+    "Location": "Salt Lake City, UT",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Steel Dynamics, Inc.",
+    "Company Score": "",
+    "Job Title": "Real Estate Strategy Intern",
+    "Location": "Charlotte, NC",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "State of Iowa",
+    "Company Score": "",
+    "Job Title": "Electrical Tech Internship",
+    "Location": "Sinton, TX",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Formlabs",
+    "Company Score": "",
+    "Job Title": "Tax Compliance Internship",
+    "Location": "Iowa",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "ACCESS",
+    "Company Score": "",
+    "Job Title": "SLA R&D Intern (Fall 2024)",
+    "Location": "Somerville, MA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "The Bank of New York Mellon Corporation",
+    "Company Score": "",
+    "Job Title": "Development Assistant (Paid Internship)",
+    "Location": "Dearborn, MI",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Aramark",
+    "Company Score": "",
+    "Job Title": "2025 BNY Summer Internship Program - Finance Controller (Pittsburgh, PA)",
+    "Location": "Pittsburgh, PA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Day & Zimmermann",
+    "Company Score": "",
+    "Job Title": "Environmental Conservation Graduate Intern - Yosemite National Park",
+    "Location": "United States",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "U.S. Department of Defense (DOD)",
+    "Company Score": "",
+    "Job Title": "Civil Intern",
+    "Location": "Huntsville, AL",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "General Mills",
+    "Company Score": "",
+    "Job Title": "Data Research Engineer Fellow - Master's level",
+    "Location": "Albuquerque, NM",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Day & Zimmermann",
+    "Company Score": "",
+    "Job Title": "Internship - Research & Development Engineer",
+    "Location": "Golden Valley, MN",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "RELQ TECHNOLOGIES LLC",
+    "Company Score": "",
+    "Job Title": "Structural Intern",
+    "Location": "Huntsville, AL",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Wayfair",
+    "Company Score": "",
+    "Job Title": "Oracle Cloud HCM",
+    "Location": "United States",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "TimkenSteel.",
+    "Company Score": "",
+    "Job Title": "Salesforce Analyst, Revenue Strategy and Operations",
+    "Location": "Boston, MA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Mount Hermon Association Incorporated",
+    "Company Score": "",
+    "Job Title": "Primary Met QA Intern",
+    "Location": "Canton, OH",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Sam's Club",
+    "Company Score": "",
+    "Job Title": "Food Service Intern",
+    "Location": "Mount Hermon, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Brownstone Property Group",
+    "Company Score": "",
+    "Job Title": "Pre Grad Intern - Sam's",
+    "Location": "Honolulu, HI",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Rapsodo",
+    "Company Score": "",
+    "Job Title": "Property Management & Brokerage Internship (Part Time)",
+    "Location": "Brooklyn, NY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "General Mills",
+    "Company Score": "",
+    "Job Title": "Sales Development Intern, Diamond Sports",
+    "Location": "Saint Louis, MO",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "GE HEALTHCARE",
+    "Company Score": "",
+    "Job Title": "Internship - Research & Development Packaging Engineer",
+    "Location": "Golden Valley, MN",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Westlake Careers",
+    "Company Score": "",
+    "Job Title": "MILITARY DoD SKILLBRIDGE Field Engineer",
+    "Location": "California",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cook Group",
+    "Company Score": "",
+    "Job Title": "Reliability Intern",
+    "Location": "Wichita Falls, TX",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Zurich Insurance Company Ltd.",
+    "Company Score": "",
+    "Job Title": "COOK Inc. Spring 2025 Manufacturing Engineering Co-op, Spencer, Indiana",
+    "Location": "Spencer, IN",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Municipality of Anchorage",
+    "Company Score": "",
+    "Job Title": "Actuarial Internship - Summer 2025",
+    "Location": "Schaumburg, IL",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "IA Interior Architects",
+    "Company Score": "",
+    "Job Title": "PUBLIC SERVICE INTERN II - Range 10 / NON",
+    "Location": "Alaska",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "City of Philadelphia",
+    "Company Score": "",
+    "Job Title": "Marketing Research Analyst",
+    "Location": "Washington, DC",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Duininck Concrete",
+    "Company Score": "",
+    "Job Title": "PWD Water Facility Asset Management Intern- 169",
+    "Location": "Philadelphia, PA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Moog Inc.",
+    "Company Score": "",
+    "Job Title": "Concrete Industry Management Intern – Business Leadership",
+    "Location": "Willmar, MN",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Alliance Coal and Affiliates Internship Program",
+    "Company Score": "",
+    "Job Title": "Fall 2024 Manufacturing/Operations/Quality Internship",
+    "Location": "Elma, NY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Coding Minds Academy",
+    "Company Score": "",
+    "Job Title": "Alliance Coal and Affiliates Internship",
+    "Location": "Lexington, KY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Conservation Corps New Mexico",
+    "Company Score": "",
+    "Job Title": "Python/Java Coding Instructor (Either or. Both not mandatory)",
+    "Location": "West Lafayette, IN",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "RELQ TECHNOLOGIES LLC",
+    "Company Score": "",
+    "Job Title": "Botany Support Specialist Intern- Conservation Corp New Mexico",
+    "Location": "Carlsbad, NM",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Day & Zimmermann",
+    "Company Score": "",
+    "Job Title": "Oracle Cloud Reporting",
+    "Location": "United States",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Ryzlink DBA Chuwa America",
+    "Company Score": "",
+    "Job Title": "Electrical Intern",
+    "Location": "Huntsville, AL",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "The Cadmus Group, Inc.",
+    "Company Score": "",
+    "Job Title": "Visualization Engineer/Journalist",
+    "Location": "Santa Clara, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "MGA Entertainment, Inc.",
+    "Company Score": "",
+    "Job Title": "Research Analyst, Economic Engagement & Private Sector Development",
+    "Location": "Arlington, VA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Timmons Group",
+    "Company Score": "",
+    "Job Title": "Brand Manager, Miniverse",
+    "Location": "Los Angeles, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Intrinsic Development",
+    "Company Score": "",
+    "Job Title": "Electric GIS Analyst II",
+    "Location": "Richmond, VA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Ehob Inc",
+    "Company Score": "",
+    "Job Title": "Real Estate Finance Intern",
+    "Location": "Columbia, MO",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Refresh Pillar Wellness LLC",
+    "Company Score": "",
+    "Job Title": "New Product Engineering Manager",
+    "Location": "Indianapolis, IN",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Ramboll",
+    "Company Score": "",
+    "Job Title": "In-Community Clinician (LSW, LAC, LCSW, LPC, LMFT)",
+    "Location": "New Jersey",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "State of Utah",
+    "Company Score": "",
+    "Job Title": "Specialist, Ecology/Biodiversity",
+    "Location": "Seattle, WA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "RELQ TECHNOLOGIES LLC",
+    "Company Score": "",
+    "Job Title": "Surveyor Internship, National Core Indicator (NCI)",
+    "Location": "Salt Lake City, UT",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "University of Massachusetts Boston",
+    "Company Score": "",
+    "Job Title": "Oracle Cloud Human Capital Management",
+    "Location": "United States",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Precision Castparts Corp.",
+    "Company Score": "",
+    "Job Title": "Graduate Assistanship (Healey Library)",
+    "Location": "Boston, MA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "BCT LLC",
+    "Company Score": "",
+    "Job Title": "Operations Intern",
+    "Location": "South Gate, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "Volvo Group",
+    "Company Score": "",
+    "Job Title": "Program Integrator (PI) 1 (SRN)",
+    "Location": "Annapolis Junction, MD",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Sellery, Inc",
+    "Company Score": "",
+    "Job Title": "Co-op: Industrial Project Engineer (Spring 2025)",
+    "Location": "Hagerstown, MD",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Philadelphia Corporation for Aging",
+    "Company Score": "",
+    "Job Title": "TikTok Operation Executive",
+    "Location": "Bellevue, WA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "GE HEALTHCARE",
+    "Company Score": "",
+    "Job Title": "Project Coordinator -Community Nutrition Program Internship",
+    "Location": "Philadelphia, PA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Bank of China",
+    "Company Score": "",
+    "Job Title": "MILITARY DoD SKILLBRIDGE Biomedical Equipment",
+    "Location": "California",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "ENGIE North America Inc.",
+    "Company Score": "",
+    "Job Title": "Financial Institutions Department Compliance Intern",
+    "Location": "United States",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Metropolitan Transportation Authority",
+    "Company Score": "",
+    "Job Title": "Intern, Mechanical Distribution",
+    "Location": "Iowa City, IA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Exotic Ridge Crypto Company",
+    "Company Score": "",
+    "Job Title": "Tech & Eng Fellow Undergrad",
+    "Location": "New York, NY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "REV Group",
+    "Company Score": "",
+    "Job Title": "IT Technician",
+    "Location": "Annville, KY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "KORNFERRY",
+    "Company Score": "",
+    "Job Title": "Internship - Materials/Supply Chain",
+    "Location": "Snyder, NE",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Environment for the Americas",
+    "Company Score": "",
+    "Job Title": "International Tax Manager",
+    "Location": "Remote",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Johnson Controls International",
+    "Company Score": "",
+    "Job Title": "Natural Resource Wildlife Intern",
+    "Location": "United States",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Arizona Healthcare",
+    "Company Score": "",
+    "Job Title": "Centrifugal Chiller Engineering Intern",
+    "Location": "New Freedom, PA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Wayfair",
+    "Company Score": "",
+    "Job Title": "Data Analytic Investigator",
+    "Location": "Phoenix, AZ",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Alpine Optoelectronics",
+    "Company Score": "",
+    "Job Title": "Manager, Revenue Operations Sales Tooling",
+    "Location": "Boston, MA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Student Conservation Association, Inc",
+    "Company Score": "",
+    "Job Title": "Silicon Photonics Engineering Internship",
+    "Location": "Fremont, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "AltaML",
+    "Company Score": "",
+    "Job Title": "Internship - GIS Intern",
+    "Location": "Junction City, OR",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "University of San Francisco",
+    "Company Score": "",
+    "Job Title": "Associate Business Solutions Consultant (Cohort 9)",
+    "Location": "Waterloo, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "U.S. Department of Defense (DOD)",
+    "Company Score": "",
+    "Job Title": "SCP Adjunct Faculty (Spring Semester)",
+    "Location": "San Francisco, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Chartwells Higher Education",
+    "Company Score": "",
+    "Job Title": "Human Physiology/Psychology Research - Post-Bachelor's",
+    "Location": "Dayton, OH",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Protiviti",
+    "Company Score": "",
+    "Job Title": "Information Technology Intern, Chartwells Higher Ed / University of Houston",
+    "Location": "Houston, TX",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Cook Group",
+    "Company Score": "",
+    "Job Title": "New York City Internal Audit and Financial Advisory Consultant - 2025",
+    "Location": "New York, NY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "CHC Fashion Group",
+    "Company Score": "",
+    "Job Title": "COOK Inc. Spring 2025 Quality Engineering Co-op, Spencer, Indiana",
+    "Location": "Spencer, IN",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Sam's Club",
+    "Company Score": "",
+    "Job Title": "TikTok Live Operations Internship",
+    "Location": "New York, NY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "U.S. Department of Defense (DOD)",
+    "Company Score": "",
+    "Job Title": "Pharmacy Pre Grad Intern - Sam's",
+    "Location": "Beckley, WV",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Triad Family & Children's Services",
+    "Company Score": "",
+    "Job Title": "Public Health Command, East: Entomological Studies Internship",
+    "Location": "Fort George G Meade, MD",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "MSA Safety",
+    "Company Score": "",
+    "Job Title": "Mental Health Counselor",
+    "Location": "Greensboro, NC",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Arizona Healthcare",
+    "Company Score": "",
+    "Job Title": "Co-Op: Industrial Engineering, Cranberry Facility (Summer 2025)",
+    "Location": "Cranberry Twp, PA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "New York Life Insurance Co",
+    "Company Score": "",
+    "Job Title": "Financial Reporting Manager",
+    "Location": "Phoenix, AZ",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "HEALTH RESOURCES IN ACTION, INC.",
+    "Company Score": "",
+    "Job Title": "2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Farmington",
+    "Location": "Farmington, CT",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "BCT LLC",
+    "Company Score": "",
+    "Job Title": "LEAH Knox Project Manager, The LEAH Project",
+    "Location": "Boston, MA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Environment for the Americas",
+    "Company Score": "",
+    "Job Title": "Program Integrator (PI) 3 (SRN) - Columbia",
+    "Location": "Annapolis Junction, MD",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Committed to Capital",
+    "Company Score": "",
+    "Job Title": "Natural Resource Management Intern - San Mateo",
+    "Location": "Golden Gate, Collier, FL",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "Yes"
+  },
+  {
+    "Company": "US Federal Highway Administration",
+    "Company Score": "",
+    "Job Title": "Sales and Account Manager",
+    "Location": "Pitman, NJ",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Behavioral Progression, Inc.",
+    "Company Score": "",
+    "Job Title": "PATHWAYS STUDENT INTERN (Civil Engineer)",
+    "Location": "McLean, VA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Fix Organization",
+    "Company Score": "",
+    "Job Title": "Behavior Technician",
+    "Location": "Lakeland, FL",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Montana State University",
+    "Company Score": "",
+    "Job Title": "Immigration Staff Attorney This Is Not A Paid Position-Volunteers",
+    "Location": "South San Francisco, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "California Institute of Technology",
+    "Company Score": "",
+    "Job Title": "Director of Career, Internship and Student Employment Services",
+    "Location": "Bozeman, MT",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Chartwells Higher Education",
+    "Company Score": "",
+    "Job Title": "Cytometry Technician",
+    "Location": "Pasadena, CA",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "KeyBank",
+    "Company Score": "",
+    "Job Title": "Marketing Intern, Chartwells Higher Ed + Boost / St. John Fisher University",
+    "Location": "Rochester, NY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Bomie LLC",
+    "Company Score": "",
+    "Job Title": "2025 Summer Key's Technology, Operations & Services (Operations Track) Internship - Cleveland",
+    "Location": "Brooklyn, OH",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "Alliance For Change, LLC",
+    "Company Score": "",
+    "Job Title": "Livestream Assistant- Mandarin Speaking",
+    "Location": "United States",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  },
+  {
+    "Company": "",
+    "Company Score": "",
+    "Job Title": "Licensed Professional Counselor (LPC). LPCA",
+    "Location": "Louisville, KY",
+    "Salary": "",
+    "Converted_Salary": "",
+    "In_GA": "No"
+  }
+]
